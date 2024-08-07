@@ -1,0 +1,69 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2024-08-05T13:53:24.316Z",
+        "id": "page_4",
+        "title": "https://www.mutuionline.it/ajax/get-elenco-comuni?term=Sesto",
+        "pageTimings": {
+          "onContentLoad": 88.84500000567641,
+          "onLoad": 92.19100000336766
+        }
+      }
+    ],
+    "entries": [
+[
+    {
+        "platform": "e-Cock-o",
+        "user": {
+            "name": "lil.query.compton",
+            "age": 31,
+            "genders": {
+                "main": "male",
+                "others": [""]
+            },
+            "role": "active",
+            "role_exceptions": false,
+            "titles": [
+                "Sperman",
+                "Robocock",
+                "Excavator",
+                "Goremaster",
+                "Fleshlicker"
+            ]
+        },
+        "target": {
+            "min_age": 0,
+            "max_age": 20,
+            "genders": {
+                "main": "female",
+                "others": ["digit", "object", "star"]
+            },
+            "role": "passive",
+            "role_exceptions": false,
+            "titles": "*"
+        },
+        "wallet": [
+            {
+                "name": "Esmeralda",
+                "age": 17,
+                "gender": "female",
+                "sexable": true
+            },
+            {
+                "name": "Cristobal",
+                "age": 0,
+                "gender": "5-HTP receptor",
+                "sexable": false
+            }
+        ]
+    }
+]
+    ]
+  }
+}
