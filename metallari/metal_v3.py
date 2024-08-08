@@ -1,4 +1,4 @@
-# metal_v2.py
+# metal_v3.py
 
 import os
 import string
@@ -59,7 +59,6 @@ def fetch_some_entries(iniziale, request_counter):
             if not body['aaData']:
                 break  # Esci dal ciclo se non vengono restituiti più dati
 
-
             # Calcola l'indice finale per il batch corrente
             end = min(start + step, total_records)
             # Stampa il progresso
@@ -82,9 +81,6 @@ def fetch_some_entries(iniziale, request_counter):
                     'URL': BeautifulSoup(band_link, 'html.parser').find('a')['href']  # Estrai il link corretto
                 }
 
-                # Stampa l'elemento JSON
-                #   print(f'\nJSON entry:\n\n{json.dumps(json_entry, indent=4)}\n')
-
                 # Appendi i metallari
                 some_entries.append(json_entry)
 
@@ -95,122 +91,74 @@ def fetch_some_entries(iniziale, request_counter):
             if start >= total_records:
                 break
 
-            # Timer di 600 ms tra una richiesta e l'altra
-            #time.sleep(0.6)
+            # Timer di attesa tra una richiesta e l'altra (secondi)
+            time.sleep(0.4)
 
     except requests.RequestException as e:
         print(f"\nErrore durante il recupero dei dati: {e}")
     
     return some_entries, request_counter
-"""
-def soup_cleaning(soup):
-    # Funzione per pulire i dati recuperati da BeautifulSoup.
-    try:
-        band_name = soup.find('h1', class_='band_name').text.strip()
-        country = soup.find('div', class_='country').text.strip()
-        genre = soup.find('div', class_='genre').text.strip()
-        status = soup.find('div', class_='status').text.strip()
 
-        # Rimuovi i caratteri non ASCII
-        band_name = band_name.encode('ascii', 'ignore').decode('ascii')
-        country = country.encode('ascii', 'ignore').decode('ascii')
-        genre = genre.encode('ascii', 'ignore').decode('ascii')
-        status = status.encode('ascii', 'ignore').decode('ascii')
-
-        # Rimuovi i caratteri speciali
-        band_name = band_name.replace('\xa0', ' ')
-        country = country.replace('\xa0', ' ')
-        genre = genre.replace('\xa0', ' ')
-        status = status.replace('\xa0', ' ')
-
-        # Rimuovi gli spazi vuoti iniziali e finali
-        band_name = band_name.strip()
-        country = country.strip()
-        genre = genre.strip()
-        status = status.strip()
-
-        # Rimuovi gli spazi vuoti interni
-        band_name = ' '.join(band_name.split())
-        country = ' '.join(country.split())
-        genre = ' '.join(genre.split())
-        status = ' '.join(status.split())
-
-        # Rimuovi le virgolette iniziali e finali
-        band_name = band_name.strip("'")
-        country = country.strip("'")
-        genre = genre.strip("'")
-        status = status.strip("'")
-
-        # Rimuovi le virgolette interne
-        band_name = ' '.join(band_name.split("'"))
-        country = ' '.join(country.split("'"))
-        genre = ' '.join(genre.split("'"))
-        status = ' '.join(status.split("'"))
-
-        # Ricava band_link da <a href={band_link}></a>
-        band_link = soup.find('a', class_='band_link')['href']
-
-    except Exception as e:
-        print(f"\nErrore durante il parsing dei dati: {e}")
-        band_link, band_name, country, genre, status = None, None, None, None, None
-
-    return band_link, band_name, country, genre, status
-"""
 # Opzionalmente, puoi salvare il DataFrame in un file CSV
 def print_df_info(dataframe):
     """
     Stampa informazioni dettagliate sul DataFrame dei metallari.
     """
-    print('\n-----------------------------')
-    # Stampa le prime e ultime 5 righe del DataFrame
-    print('>>df.head()\nPrime 5 righe del DataFrame:\n', dataframe.head())
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
-    print('>>df.tail()\nUltime 5 righe del DataFrame:\n', dataframe.tail())
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+    q = True
+    while q:
+        print('\n-----------------------------')
+        # Stampa le prime e ultime 5 righe del DataFrame
+        print('>>df.head()\nPrime 5 righe del DataFrame:\n', dataframe.head())
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
+        print('>>df.tail()\nUltime 5 righe del DataFrame:\n', dataframe.tail())
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
 
-    # Stampa informazioni dettagliate sul DataFrame (tipo di dato, quantità di righe e colonne, ...)
-    #print('df.info():\n', dataframe.info())
-    #print('\n-----------------------------\n')
-    #time.sleep(0.6)
+        # Stampa informazioni dettagliate sul DataFrame (tipo di dato, quantità di righe e colonne, ...)
+        #print('df.info():\n', dataframe.info())
+        #print('\n-----------------------------\n')
+        #time.sleep(0.6)
 
-    # Stampa statistiche descrittive sul DataFrame (count, mean, std, min, max, ...)
-    print('>>df.describe()\nStatistiche descrittive sul DataFrame (count, mean, standard deviation, min, max, quartiles):\n', dataframe.describe())
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+        # Stampa statistiche descrittive sul DataFrame (count, mean, std, min, max, ...)
+        print('>>df.describe()\nStatistiche descrittive sul DataFrame (count, mean, standard deviation, min, max, quartiles):\n', dataframe.describe())
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
 
-    # Stampa i tipi di dato di ogni colonna del DataFrame (int, float, object)    
-    print('>>df.dtype\nTipi di dato di ogni colonna del DataFrame:\n', dataframe.dtypes)
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+        # Stampa i tipi di dato di ogni colonna del DataFrame (int, float, object)    
+        print('>>df.dtype\nTipi di dato di ogni colonna del DataFrame:\n', dataframe.dtypes)
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
 
-    # Stampa i nomi delle colonne del DataFrame
-    print('>>df.columns\nNomi delle colonne del DataFrame:\n', dataframe.columns)
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+        # Stampa i nomi delle colonne del DataFrame
+        print('>>df.columns\nNomi delle colonne del DataFrame:\n', dataframe.columns)
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
 
-    # Stampa il numero di righe (r) e colonne (c) del DataFrame come vettore (r, c)
-    print('>>df.shape\nNumero di righe e colonne del DataFrame (r, c):\n', dataframe.shape)
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+        # Stampa il numero di righe (r) e colonne (c) del DataFrame come vettore (r, c)
+        print('>>df.shape\nNumero di righe e colonne del DataFrame (r, c):\n', dataframe.shape)
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
 
-    # Stampa il numero di valori non nulli e nulli per ogni colonna
-    print('>>df.notnull().sum()\nNumero di valori non nulli per ogni colonna:\n', dataframe.notnull().sum())
-    print('\n-----------------------------\n')
-    print('>>df.isnull().sum()\nNumero di valori nulli per ogni colonna:\n', dataframe.isnull().sum())
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+        # Stampa il numero di valori non nulli e nulli per ogni colonna
+        print('>>df.notnull().sum()\nNumero di valori non nulli per ogni colonna:\n', dataframe.notnull().sum())
+        print('\n-----------------------------\n')
+        print('>>df.isnull().sum()\nNumero di valori nulli per ogni colonna:\n', dataframe.isnull().sum())
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
 
-    # Stampa il numero di valori unici per ogni colonna
-    print('df.nunique():\n', dataframe.nunique())
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+        # Stampa il numero di valori unici per ogni colonna
+        print('df.nunique():\n', dataframe.nunique())
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
 
-    # Stampa il numero di valori duplicati per ogni colonna
-    print('df.duplicated().sum():\n', dataframe.duplicated().sum())
-    print('\n-----------------------------\n')
-    time.sleep(0.6)
+        # Stampa il numero di valori duplicati per ogni colonna
+        print('df.duplicated().sum():\n', dataframe.duplicated().sum())
+        print('\n-----------------------------\n')
+        time.sleep(0.6)
+
+        q = False
+        break
 
     # Accorpiamo tutte queste informazioni in verticale, in una lista testuale
     df_infos = []
@@ -225,21 +173,25 @@ def print_df_info(dataframe):
 
     return df_infos
 
-def df_save_to_csv(records, text_start):
+def df_save_to_csv(records, text_start, path):
     """
     Salva i dati in un file CSV con il nome basato su 'text_start'.
     """
-    # Creazione df
-    data = pd.DataFrame(records)
+    q = True
+    while q:
+        # Creazione df
+        data = pd.DataFrame(records)
 
-    # Salvataggio in csv
-    output_file = os.path.join(metallari_folder, f'{text_start}_data.csv')
-    # Utilizzo del metodo di salvataggio CSV con encoding 'uft-8' e delimiter ';'
-    data.to_csv(output_file, index=False, sep=';', encoding='utf-8')
+        # Salvataggio in csv
+        output_file = os.path.join(path, f'{text_start}_data.csv')
+        # Utilizzo del metodo di salvataggio CSV con encoding 'uft-8' e delimiter ';'
+        data.to_csv(output_file, index=False, sep=';', encoding='utf-8')
+        q = False
+        break
 
     return output_file
 
-def pretty_json(json_string):
+def pretty_json(json_data):
     """
     Formatta un oggetto JSON in modo leggibile.
     """
@@ -276,7 +228,10 @@ def main():
     which = 0
     while which < 1 or which > 2:
         try:
-            which = int(input('\nSalverò tutti i metallari nell\'archivio, scegli se:\n1. Salvare tutti i metallari del mondo\n2. Indicare solo la lettera iniziale\nInserisci la tua scelta [1/2]: '))
+            print('\nSalverò tutti i metallari nell\'archivio, scegli se: ')
+            print('1. Salvare tutti i metallari del mondo\n2. Indicare solo la lettera iniziale')
+            which = int(input('Inserisci la tua scelta [1/2]: '))
+
         except ValueError:
             print('Input non valido. Per favore, inserisci un numero intero [1 o 2].')
 
@@ -304,7 +259,7 @@ def main():
                 letter_infos = print_df_info(piece)
 
                 # Salva il DataFrame in un file CSV
-                filename = df_save_to_csv(piece, char)
+                filename = df_save_to_csv(piece, char, all_infos_dir)
 
                 # Aggiungiamo le informazioni sulle voci recuperate
                 all_infos.extend(letter_infos)
@@ -315,8 +270,8 @@ def main():
             print(f'\nNumero totale di voci recuperate: {format_total_records}')
             time.sleep(0.6)
 
-            # Salvataggio in txt
-            json_file = os.path.join(current_dir, '0_all_metallari_info.json')
+            # Salvataggio in JSON
+            json_file = os.path.join(metallari_folder, '0_all_metallari_info.json')
             with open(json_file, 'w', encoding='utf-8') as f:
                 json_infos = pretty_json(all_infos)
                 f.write(json_infos)
@@ -359,7 +314,7 @@ def main():
             time.sleep(0.6)
 
             # Salva il DataFrame in un file CSV
-            filename = df_save_to_csv(piece, lettera)
+            filename = df_save_to_csv(piece, lettera, alphabet_dir)
             print(f'\nDati salvati in {filename}:')
             time.sleep(0.6)
 
