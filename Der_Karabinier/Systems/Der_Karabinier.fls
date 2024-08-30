@@ -1,6 +1,6 @@
-PWD c:\Users\mcontini\Desktop\Carabbnir\public\Der_Karabinier
+PWD c:\Users\mcontini\Desktop\Carabbnir\m-contini\Der_Karabinier
 INPUT C:\Users\mcontini\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\mcontini\Desktop\Carabbnir\public\Der_Karabinier\Der_Karabinier.tex
+INPUT c:\Users\mcontini\Desktop\Carabbnir\m-contini\Der_Karabinier\Der_Karabinier.tex
 OUTPUT Der_Karabinier.log
 INPUT C:\Users\mcontini\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\mcontini\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

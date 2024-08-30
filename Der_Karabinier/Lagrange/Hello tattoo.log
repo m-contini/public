@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.31)  22 AUG 2024 10:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.31)  21 AUG 2024 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/mcontini/Desktop/Carabbnir/public/Der_Karabinier/Der_Karabinier.tex
-(c:/Users/mcontini/Desktop/Carabbnir/public/Der_Karabinier/Der_Karabinier.tex
+**"c:/Users/mcontini/Downloads/Hello tattoo.tex"
+(c:/Users/mcontini/Downloads/Hello tattoo.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (C:\Users\mcontini\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -91,8 +91,8 @@ LaTeX Info: Redefining \] on input line 2954.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box54
-) (Der_Karabinier.aux)
-\openout1 = `Der_Karabinier.aux'.
+) (Hello tattoo.aux)
+\openout1 = `"Hello tattoo.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -112,26 +112,24 @@ LaTeX Font Info:    ... okay on input line 4.
 
 [1
 
-{C:/Users/mcontini/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-
-[2] (Der_Karabinier.aux)
+{C:/Users/mcontini/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Hello tattoo.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1179 strings out of 473904
- 18420 string characters out of 5725184
- 1933908 words of memory out of 5000000
- 24096 multiletter control sequences out of 15000+600000
- 563834 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 strings out of 473904
+ 17729 string characters out of 5725184
+ 1927908 words of memory out of 5000000
+ 24071 multiletter control sequences out of 15000+600000
+ 558523 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,5n,65p,358b,134s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\mcontini\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Der_Karabinier.pdf (2 pages, 138910 bytes).
+ 56i,5n,65p,238b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mcontini/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on "Hello tattoo.pdf" (1 page, 52119 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
