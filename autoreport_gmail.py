@@ -5,9 +5,13 @@ from email.mime.base import MIMEBase
 from email import encoders
 import os
 
+from dotenv import load_dotenv
+load_dotenv()
+key = os.getenv('API_KEY')
+
 report_file_path = "./Der_Karabinier.pdf"
 sender = "mcontini.throwaway@gmail.com"
-temp_token = "" # PORCO DIO NON PUBBLICARLO SU GITHUB
+temp_token = key # PORCO DIO NON PUBBLICARLO SU GITHUB
                                     # vd gitignore env
 recipient = sender
 
