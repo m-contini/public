@@ -1,0 +1,258 @@
+id;name;genres;followers;popularity;specific_genre
+00Uv0804nrBM2RxUBTkyHj;wobbler;['c64', 'italian progressive rock', 'neo-progressive', 'norwegian prog', 'progressive rock'];18640;18;{'progressive', 'italian', 'norwegian', 'neo-progressive', 'rock', 'c64', 'prog'}
+02fDf7HEPtBZLtPzCyxSR2;lanark artefax;['deconstructed club', 'fluxwork', 'mandible', 'scottish electronic', 'uk experimental electronic'];17506;21;{'fluxwork', 'uk', 'mandible', 'experimental', 'club', 'scottish', 'electronic', 'deconstructed'}
+058thnz6odaxoAN4n3cMBN;verdena;['bergamo indie', 'italian alternative'];146604;43;{'indie', 'italian', 'bergamo', 'alternative'}
+05MlomiA9La0OiNIAGqECk;delta sleep;['brighton indie', 'british math rock', 'math pop', 'math rock'];94217;48;{'british', 'pop', 'indie', 'rock', 'math', 'brighton'}
+05tfXy5v0DpYvuy4Sot4Nu;whourkr;['breakcore', 'cybergrind'];10583;14;{'cybergrind', 'breakcore'}
+07UJz804RJxqNvxFXC3h9H;sam gellaitry;['future bass', 'scottish electronic', 'vapor twitch'];148628;54;{'twitch', 'future', 'bass', 'scottish', 'vapor', 'electronic'}
+08hpJXZImSYgSb8kEbyXAA;reflux;[];2240;4;set()
+0AZ3VR0YbFcS0Kgei7L2QF;russian circles;['american post-rock', 'instrumental post-rock', 'instrumental rock', 'post-metal', 'post-rock', 'sludge metal'];258536;46;{'post-rock', 'metal', 'instrumental', 'sludge', 'rock', 'american', 'post-metal'}
+0AhnRzNnHI2Yhx9d00H5Cp;rendezvous point;['djent', 'progressive metal', 'sci-fi metal'];17927;28;{'progressive', 'djent', 'sci-fi', 'metal'}
+0CfjW2VuMdrhWodHtG7DWi;envy;['japanese emo', 'japanese post-hardcore', 'japanese post-rock', 'japanese screamo', 'post-rock'];51031;35;{'post-rock', 'screamo', 'japanese', 'emo', 'post-hardcore'}
+0D3h8NZqNp7BN97JwtV6eW;tigran hamasyan;['armenian folk', 'contemporary jazz', 'jazz piano', 'modern jazz piano'];169911;45;{'armenian', 'folk', 'contemporary', 'jazz', 'piano', 'modern'}
+0EDuC6lJh1F3Z9I7h62nFe;andrea cotroneo;[];224;2;set()
+0FRKTwQSToXpCxYMhyUzYY;have a nice life;['blackgaze', 'doomgaze', 'dream pop', 'nu gaze'];418351;55;{'nu', 'pop', 'gaze', 'doomgaze', 'dream', 'blackgaze'}
+0GDGKpJFhVpcjIGF8N6Ewt;gojira;['alternative metal', 'french death metal', 'french metal', 'groove metal', 'metal', 'nu metal', 'progressive groove metal'];1534689;67;{'death', 'progressive', 'metal', 'french', 'nu', 'alternative', 'groove'}
+0H9VJTe5YIHfLKqor9C5Ln;mark applebaum;['tzadik'];859;1;{'tzadik'}
+0HJQZHbKgYyWCDc8uVko6S;rosetta;['atmospheric post-metal', 'drone metal', 'philly indie', 'post-metal', 'sci-fi metal', 'sludge metal'];37768;24;{'metal', 'philly', 'drone', 'sci-fi', 'sludge', 'atmospheric', 'indie', 'post-metal'}
+0Ivm3PYwfVFeq2trxYqLi2;*shels;['atmospheric post-metal', 'instrumental post-rock', 'post-metal', 'post-rock'];24647;25;{'atmospheric', 'instrumental', 'post-rock', 'post-metal'}
+0LGX3mkYo7ckQz4JyZrifu;jardín de la croix;['spanish indie rock', 'spanish metal', 'spanish post-rock', 'spanish progressive rock'];7449;9;{'progressive', 'post-rock', 'metal', 'spanish', 'indie', 'rock'}
+0MG4LXIw7n4x0wjDc6WYXk;this will destroy you;['ambient post-rock', 'american post-rock', 'doomgaze', 'drone metal', 'instrumental post-rock', 'post-rock'];247269;44;{'post-rock', 'metal', 'drone', 'instrumental', 'ambient', 'american', 'doomgaze'}
+0QBQgTnTS6JORFHr7k0KRJ;gomma;['italian alternative', 'italian emo', 'italian indie pop'];22509;27;{'italian', 'pop', 'indie', 'alternative', 'emo'}
+0WPY9nnBy01s5QOt4o4oQX;ride;['alternative rock', 'britpop', 'dream pop', 'oxford indie', 'shoegaze'];239983;46;{'britpop', 'shoegaze', 'pop', 'indie', 'rock', 'oxford', 'alternative', 'dream'}
+0YHxyyD4PHmFZipMtvH5K5;mark hartsuch;[];337;7;set()
+0YbvZPP1HufDyWIsR0ei6K;skyharbor;['djent', 'indian metal'];62695;30;{'djent', 'indian', 'metal'}
+0Z5FMozvx15nUSUA6a9kkU;the comet is coming;['british jazz', 'chamber psych'];173618;37;{'jazz', 'psych', 'chamber', 'british'}
+0c0xIXQhCbmtvzM93liaSf;blut aus nord;['atmospheric black metal', 'avant-garde black metal', 'black metal', 'blackgaze', 'cosmic black metal', 'drone metal', 'french black metal', 'french metal', 'post-metal', 'voidgaze'];75903;32;{'avant-garde', 'metal', 'drone', 'french', 'cosmic', 'atmospheric', 'voidgaze', 'black', 'blackgaze', 'post-metal'}
+0d5ZwMtCer8dQdOPAgWhe7;alcest;['atmospheric black metal', 'blackgaze', 'emotional black metal', 'french black metal', 'french metal', 'french shoegaze', 'post-black metal', 'post-metal', 'shoegaze'];296848;48;{'shoegaze', 'post-black', 'metal', 'emotional', 'french', 'atmospheric', 'black', 'blackgaze', 'post-metal'}
+0dPLWmQMIFZaCs8GCIZ1Zr;casa del mirto;['chillwave'];10703;18;{'chillwave'}
+0jNDKefhfSbLR9sFvcPLHo;san holo;['brostep', 'edm', 'electro house', 'electronic trap', 'future bass', 'pop dance'];696129;57;{'future', 'bass', 'electro', 'dance', 'house', 'edm', 'pop', 'brostep', 'electronic', 'trap'}
+0pSx3asj3usz5PRt8COo0E;ketama126;['drill italiana', 'emo rap italiano', 'italian hip hop', 'trap italiana'];318180;56;{'italian', 'hip', 'hop', 'italiana', 'drill', 'italiano', 'rap', 'emo', 'trap'}
+0qu422H5MOoQxGjd4IzHbS;yves tumor;['art pop', 'escape room', 'experimental pop', 'experimental r&b', 'hypnagogic pop'];399571;57;{'art', 'experimental', 'r&b', 'room', 'pop', 'hypnagogic', 'escape'}
+0rpKM0MniNkXM1SLSglYUZ;toe;['instrumental math rock', 'instrumental post-rock', 'japanese math rock', 'japanese post-rock', 'math rock', 'midwest emo'];308195;50;{'post-rock', 'instrumental', 'japanese', 'rock', 'math', 'midwest', 'emo'}
+0xpJGyjbEzkWSNfcf2tcMl;intervals;['djent', 'instrumental djent', 'instrumental rock'];208155;49;{'djent', 'rock', 'instrumental'}
+0ybFZ2Ab08V8hueghSXm6E;opeth;['alternative metal', 'metal', 'progressive death metal', 'progressive metal', 'swedish metal', 'swedish progressive metal'];986455;59;{'progressive', 'death', 'metal', 'swedish', 'alternative'}
+0yytxwS39QiLpI9GM7cOuL;il teatro degli orrori;['indie veneto', 'italian alternative', 'jazzcore'];57738;33;{'veneto', 'jazzcore', 'italian', 'indie', 'alternative'}
+0z4ODfFM8PGE0A9r0tZ75J;vildhjarta;['djent', 'instrumental djent', 'thall'];123029;40;{'djent', 'thall', 'instrumental'}
+0zZRbZrBprUwWRKnbaIEXq;øjne;['italian emo', 'italian post-hardcore', 'italian screamo', 'skramz'];11675;22;{'italian', 'screamo', 'emo', 'post-hardcore', 'skramz'}
+13ubrt8QOOCPljQ2FL1Kca;a$ap rocky;['east coast hip hop', 'hip hop', 'rap'];15104368;86;{'east', 'hip', 'coast', 'hop', 'rap'}
+14u4KXVp0iXQil79EpxXGc;the algorithm;['cyberpunk', 'djent', 'electronic djent', 'future rock', 'instrumental djent', 'instrumental rock'];100934;35;{'djent', 'future', 'instrumental', 'rock', 'cyberpunk', 'electronic'}
+150xbiJGnTy1tSBZ9EFKnT;1349;['black metal', 'death metal', 'norwegian black metal', 'norwegian metal', 'technical black metal'];137825;38;{'death', 'metal', 'norwegian', 'technical', 'black'}
+15UsOTVnJzReFVN1VCnxy4;xxxtentacion;['emo rap', 'miami hip hop', 'rap'];47067099;89;{'hip', 'hop', 'miami', 'rap', 'emo'}
+16Uqo1jjtPiKI4zU1Ficgb;scale the summit;['djent', 'instrumental math rock', 'instrumental progressive metal', 'instrumental rock', 'progressive jazz fusion'];102895;31;{'progressive', 'djent', 'metal', 'instrumental', 'fusion', 'rock', 'math', 'jazz'}
+17qfMEjKb5ry8L8mekQZfd;intronaut;['djent', 'jazz metal', 'post-metal', 'sludge metal'];66724;27;{'djent', 'metal', 'sludge', 'jazz', 'post-metal'}
+183vQCgpuNJHxdDCYIpkA4;crash of rhinos;['derby indie', 'midwest emo'];8575;16;{'midwest', 'indie', 'emo', 'derby'}
+18TNVFTJ6WfeicsMRrdJHI;metz;['canadian punk', 'crank wave', 'indie punk', 'noise pop', 'noise rock', 'post-hardcore'];84329;35;{'noise', 'crank', 'canadian', 'pop', 'indie', 'wave', 'rock', 'post-hardcore', 'punk'}
+19f2JXwlRU26376TCKmp6L;gogo penguin;['british jazz', 'contemporary jazz', 'indie jazz', 'jazztronica', 'modern jazz trio', 'progressive jazz fusion'];246934;46;{'progressive', 'jazztronica', 'trio', 'fusion', 'indie', 'contemporary', 'british', 'jazz', 'modern'}
+1AKQ12On2ydAN0jykcB929;aquilus;['atmospheric black metal', 'australian black metal', 'autonomous black metal', 'folk black metal', 'voidgaze'];14835;20;{'metal', 'atmospheric', 'australian', 'autonomous', 'folk', 'voidgaze', 'black'}
+1DGpHnPOpMYY780hcQHmPB;hiroshi yoshimura;['ambient', 'fourth world', 'j-ambient'];115825;42;{'ambient', 'fourth', 'j-ambient', 'world'}
+1Dvfqq39HxvCJ3GvfeIFuT;mastodon;['alternative metal', 'atlanta metal', 'metal', 'progressive groove metal', 'progressive sludge', 'sludge metal', 'stoner metal', 'stoner rock'];942206;61;{'progressive', 'metal', 'atlanta', 'stoner', 'sludge', 'rock', 'alternative', 'groove'}
+1JSPpoXFLcEG2WhYlvmHPJ;yosi horikawa;['abstract beats', 'japanese experimental', 'japanese idm'];57336;34;{'experimental', 'beats', 'abstract', 'japanese', 'idm'}
+1JsBuuKCnA43vrlM1X4cKN;monika roscher bigband;['munich indie'];19667;27;{'indie', 'munich'}
+1KHydwFySZY3YcWyo2q2dF;neurosis;['atmospheric post-metal', 'atmospheric sludge', 'doom metal', 'drone metal', 'post-doom metal', 'post-metal', 'progressive sludge', 'sludge metal'];143173;34;{'progressive', 'doom', 'metal', 'drone', 'sludge', 'atmospheric', 'post-doom', 'post-metal'}
+1MD5pgVzlusqGyuSTcTxvu;premiata forneria marconi;['italian progressive rock', 'progressive rock'];120573;37;{'progressive', 'italian', 'rock'}
+1PvIhDSob4VErWq8ssWdmA;la psicosi di ottobre;[];26;9;set()
+1UiZqQoNAT4bs0uCK3biS9;ornaments;[];622;4;set()
+1V4jsLjkic1Mxvdke86Qth;the aristocrats;['instrumental rock', 'progressive jazz fusion', 'progressive metal', 'traditional funk'];120477;36;{'progressive', 'traditional', 'metal', 'instrumental', 'fusion', 'rock', 'jazz', 'funk'}
+1binm59tmJzoZLvLETVYBP;jesu;['birmingham metal', 'british experimental', 'doomgaze', 'drone', 'drone metal', 'dub metal', 'post-metal', 'shoegaze', 'uk doom metal', 'uk post-metal'];62696;29;{'shoegaze', 'birmingham', 'doom', 'uk', 'metal', 'experimental', 'drone', 'dub', 'british', 'doomgaze', 'post-metal'}
+1cbBzQxiKcZCsit68iTbTJ;lantlôs;['atmospheric black metal', 'blackgaze', 'doomgaze', 'emotional black metal', 'german black metal', 'post-metal'];56800;31;{'metal', 'doomgaze', 'emotional', 'german', 'atmospheric', 'black', 'blackgaze', 'post-metal'}
+1hTlyo5QWVHUA3xUGgXqa5;proem;['abstract', 'ambient idm', 'deep idm', 'drill and bass', 'glitch', 'intelligent dance music'];13319;21;{'glitch', 'bass', 'intelligent', 'dance', 'and', 'abstract', 'music', 'drill', 'ambient', 'deep', 'idm'}
+1iqXhsjGeWi2Gje5q0mFYb;xxyyxx;['chillwave', 'wonky'];255429;39;{'wonky', 'chillwave'}
+1j8QyWpOJKAe6Iw2KvEg2j;audiotree;[];17507;58;set()
+1kYsYRtVq1Po3luPqeAnm2;exivious;['djent', 'instrumental death metal', 'instrumental rock', 'jazz metal', 'progressive jazz fusion'];14607;16;{'death', 'djent', 'progressive', 'metal', 'instrumental', 'fusion', 'rock', 'jazz'}
+1nw8iwDkSSHqn8S343ODcp;chassol;[];51700;36;set()
+1oR9pQhucVTJyi5lH2Y2iT;blank banshee;['future funk', 'vaportrap', 'vaporwave'];114571;38;{'vaportrap', 'future', 'vaporwave', 'funk'}
+1uRpg2s2jNaxbmoNiJDGfd;pain of salvation;['prog metal', 'progressive metal', 'swedish progressive metal'];137911;41;{'progressive', 'swedish', 'prog', 'metal'}
+1uvnDqn7UvVy6orSq1E2YF;sungazer;['livetronica', 'progressive jazz fusion'];96171;44;{'progressive', 'jazz', 'livetronica', 'fusion'}
+1zrqDVuh55auIRthalFdXp;alva noto;['abstract idm', 'drone', 'glitch', 'glitch ambient', 'intelligent dance music'];92127;40;{'glitch', 'intelligent', 'dance', 'drone', 'abstract', 'music', 'ambient', 'idm'}
+22IXRMQ8P6neRNh7ExqRPy;folie à deux;[];29;0;set()
+232kF3LKFnCswMv7tZSf5H;zeus;[];1558;14;set()
+29PgYwTelpNl6370XLqFtN;cryptopsy;['black metal', 'brutal death metal', 'canadian metal', 'death metal', 'quebec death metal', 'technical death metal', 'technical deathcore', 'technical melodic death metal', 'thrash metal'];167084;41;{'death', 'melodic', 'canadian', 'brutal', 'metal', 'deathcore', 'quebec', 'thrash', 'technical', 'black'}
+29XOeO6KIWxGthejQqn793;flying lotus;['afrofuturism', 'alternative hip hop', 'electronica', 'escape room', 'experimental hip hop', 'glitch', 'glitch hop', 'indietronica', 'instrumental hip hop', 'intelligent dance music', 'jazztronica', 'psychedelic hip hop', 'wonky'];791564;56;{'hip', 'electronica', 'intelligent', 'dance', 'jazztronica', 'experimental', 'indietronica', 'instrumental', 'room', 'wonky', 'hop', 'music', 'psychedelic', 'alternative', 'afrofuturism', 'escape', 'glitch'}
+2CdN4XLh2BYpvvmqWZ5M6n;the chasing monster;['atmospheric post-rock', 'instrumental post-rock', 'italian post-rock'];3565;7;{'atmospheric', 'italian', 'instrumental', 'post-rock'}
+2F9WG9ugzneeesOZfmQ18V;shubh saran;['indian jazz'];29788;32;{'jazz', 'indian'}
+2Hkut4rAAyrQxRdof7FVJq;rush;['album rock', 'canadian metal', 'classic canadian rock', 'classic rock', 'hard rock', 'progressive rock', 'rock'];2373226;66;{'progressive', 'canadian', 'metal', 'hard', 'classic', 'album', 'rock'}
+2IhojRjOLxPzx5Y7nKjwJg;zeus;['jazzcore'];765;3;{'jazzcore'}
+2JC4hZm1egeJDEolLsMwZ9;between the buried and me;['djent', 'melodic metalcore', 'north carolina metal', 'progressive metal'];274829;45;{'progressive', 'djent', 'melodic', 'metal', 'north', 'metalcore', 'carolina'}
+2JFljHPanIjYy2QqfNYvC0;chon;['instrumental math rock', 'instrumental rock', 'progressive jazz fusion', 'san diego indie'];320411;48;{'progressive', 'instrumental', 'fusion', 'indie', 'rock', 'math', 'jazz', 'san', 'diego'}
+2JOKkrpXtdpKvcGf1pjXz2;hecq;['ambient idm'];11124;17;{'ambient', 'idm'}
+2KiM6weN3ZIpgR5QekkSoJ;spiral architect;['jazz metal', 'norwegian metal'];3751;3;{'jazz', 'norwegian', 'metal'}
+2Mz5qpR3WxbcBwZBsmraWE;panopticon;['appalachian black metal', 'atmospheric black metal', 'autonomous black metal', 'bosnian electronic', 'folk black metal', 'forest black metal', 'kentucky metal', 'post-metal', 'usbm', 'voidgaze'];67039;32;{'metal', 'post-metal', 'usbm', 'kentucky', 'atmospheric', 'autonomous', 'folk', 'voidgaze', 'bosnian', 'appalachian', 'black', 'electronic', 'forest'}
+2SRIVGDkdqQnrQdaXxDkJt;haken;['progressive metal'];221470;47;{'progressive', 'metal'}
+2UKoSOQc2gv3tbB9MLSuh3;zero hour;[];749;0;set()
+2Y2gruKUC2cAjhe0h2RpzV;groundislava;['wonky'];33883;28;{'wonky'}
+2aaLAng2L2aWD2FClzwiep;dream theater;['metal', 'progressive metal'];1619077;63;{'progressive', 'metal'}
+2bewCDutBf99Dz09yo7PBC;halfalib;['milan indie'];562;0;{'indie', 'milan'}
+2exebQUDoIoT0dXA8BcN1P;home;[];357199;48;set()
+2hbkBlGBgvJkC3tpUn9w4C;mgła;['atmospheric black metal', 'black metal', 'polish black metal'];147897;42;{'atmospheric', 'black', 'polish', 'metal'}
+2kMrfaiMKOTZvpf4plBPAA;dempsey;[];857;3;set()
+2nGNJ5OnGMAJ9ZwHu10mQJ;buon vecchio charlie;['italian progressive rock'];2680;3;{'progressive', 'italian', 'rock'}
+2nu6ZVLgiNcRcWgDKUjplH;eery;['lo-fi beats'];79024;37;{'lo-fi', 'beats'}
+2p2uE4i92Dn4DkThfoKIB9;igorrr;['avant-garde metal', 'breakcore', 'cybergrind', 'french metal', 'opera metal'];245109;45;{'avant-garde', 'metal', 'french', 'cybergrind', 'opera', 'breakcore'}
+2q37Nw8NND2z1T1KU5XVfn;christian scott atunde adjuah;['contemporary jazz', 'experimental jazz', 'jazz', 'jazz trumpet', 'new orleans jazz'];141455;39;{'experimental', 'orleans', 'contemporary', 'new', 'jazz', 'trumpet'}
+2u5s5wxfNszaIZwWknh3eB;yasushi yoshida;['j-ambient', 'japanese piano'];8405;21;{'j-ambient', 'piano', 'japanese'}
+2uz9ERD3U5c4F2CZDS0mzb;maria chiara argirò;[];9586;34;set()
+2vkjEcWfKySAsYcwpRRGn4;soundpool;['indie shoegaze', 'nu gaze', 'shoegaze'];7639;10;{'indie', 'shoegaze', 'gaze', 'nu'}
+2vsXeWGC8rILp3rpSN2Fyk;isis;['atmospheric post-metal', 'atmospheric sludge', 'drone metal', 'post-metal', 'post-rock', 'sludge metal', 'stoner metal'];146465;37;{'metal', 'post-rock', 'drone', 'stoner', 'sludge', 'atmospheric', 'post-metal'}
+2wouN3QXejYa5tKetYdcVX;com truise;['chillwave', 'indietronica', 'vaporwave'];282814;59;{'indietronica', 'vaporwave', 'chillwave'}
+2yEwvVSSSUkcLeSTNyHKh8;tool;['alternative metal', 'art rock', 'nu metal', 'post-grunge', 'progressive metal', 'progressive rock', 'rock'];3907314;71;{'progressive', 'art', 'metal', 'nu', 'rock', 'post-grunge', 'alternative'}
+2zq0uqN9Wq12tqrQQt1ozw;mr. bungle;['funk metal', 'funk rock'];343675;44;{'metal', 'rock', 'funk'}
+30EilmonVXftR1pWoALezP;the physics house band;['british math rock', 'instrumental math rock', 'math rock'];29405;26;{'instrumental', 'rock', 'math', 'british'}
+33qUIIydEBgWpe58IA0o61;maybeshewill;['british post-rock', 'instrumental post-rock', 'post-rock'];92930;35;{'instrumental', 'post-rock', 'british'}
+37Vukf7o6CBPG68BRDpStb;ghost bath;['atmospheric black metal', 'cosmic black metal', 'voidgaze'];58152;33;{'metal', 'cosmic', 'atmospheric', 'voidgaze', 'black'}
+38PMvw2FdepCpankD64TZL;inanna;[];1878;15;set()
+3C1TdpEowpf6AMf7PycuWy;nate smith;['contemporary jazz', 'uk contemporary jazz'];77356;43;{'jazz', 'uk', 'contemporary'}
+3Gs10XJ4S4OEFrMRqZJcic;plini;['djent', 'instrumental math rock', 'instrumental rock', 'progressive jazz fusion'];326451;51;{'progressive', 'djent', 'instrumental', 'fusion', 'rock', 'math', 'jazz'}
+3IuEuLez19teZSN32Pf70j;mononeon;['funktronica', 'microtonal'];70941;38;{'microtonal', 'funktronica'}
+3JMctIRwcYkN013icoOggA;jeremy ledbetter trio;[];4230;23;set()
+3K4vimkwmCyjD4g1hEMPjZ;tera melos;['instrumental math rock', 'math pop', 'math rock'];56786;29;{'pop', 'rock', 'instrumental', 'math'}
+3Md3TqrojN6GPhCGC9jGaU;areni agbabian;['experimental jazz'];5881;24;{'jazz', 'experimental'}
+3SiCxhceGZgzusCLHd4Zz6;long distance calling;['atmospheric post-metal', 'german post-rock', 'instrumental post-rock', 'post-metal', 'post-rock'];79213;33;{'post-rock', 'instrumental', 'german', 'atmospheric', 'post-metal'}
+3TZ3WMTZ0zxiQw8cKTA4wA;fine before you came;['indie rock italiano', 'italian alternative', 'italian emo', 'italian post-hardcore', 'milan indie'];20625;23;{'italian', 'indie', 'rock', 'milan', 'italiano', 'alternative', 'emo', 'post-hardcore'}
+3V79CTgRnsDdJSTqKitROv;nobuo uematsu;['chiptune', 'japanese classical', 'japanese vgm', 'orchestral soundtrack', 'video game music'];327110;62;{'vgm', 'japanese', 'chiptune', 'orchestral', 'video', 'classical', 'game', 'music', 'soundtrack'}
+3WggbHDpj4rPKbL97zG5MQ;tortoise;['chicago indie', 'double drumming', 'experimental', 'experimental rock', 'post-rock'];141573;37;{'post-rock', 'experimental', 'chicago', 'drumming', 'indie', 'rock', 'double'}
+3XFQRe2FsSOjrODygK4caW;oranssi pazuzu;['atmospheric black metal', 'avant-garde metal', 'blackgaze', 'cosmic black metal', 'drone metal', 'finnish black metal', 'finnish psychedelic rock', 'post-black metal', 'post-metal', 'sci-fi metal', 'voidgaze'];62297;40;{'avant-garde', 'post-black', 'metal', 'drone', 'sci-fi', 'cosmic', 'finnish', 'atmospheric', 'rock', 'voidgaze', 'psychedelic', 'black', 'blackgaze', 'post-metal'}
+3YQNyPeDonpYjB9N92VclR;abigor;['austrian black metal', 'austrian metal', 'avant-garde metal', 'black metal', 'medieval black metal', 'symphonic black metal', 'technical black metal'];38757;29;{'avant-garde', 'metal', 'medieval', 'austrian', 'technical', 'black', 'symphonic'}
+3afZq189ljtgEtVfaLgjTK;progenie terrestre pura;['blackgaze', 'cosmic black metal', 'italian black metal', 'sci-fi metal'];4700;14;{'italian', 'metal', 'sci-fi', 'cosmic', 'black', 'blackgaze'}
+3fuab64Hf1xiRGocX1sT1n;midori takada;['fourth world', 'japanese experimental'];14136;13;{'fourth', 'experimental', 'world', 'japanese'}
+3ggwAqZD3lyT2sbovlmfQY;meshuggah;['alternative metal', 'djent', 'groove metal', 'metal', 'nu metal', 'progressive groove metal', 'swedish metal', 'technical groove metal', 'technical thrash'];733616;56;{'progressive', 'djent', 'metal', 'nu', 'swedish', 'thrash', 'technical', 'alternative', 'groove'}
+3htNAy3vYWWYV8RZFeyRMT;slow magic;['chillwave', 'gauze pop', 'vapor twitch'];125458;39;{'twitch', 'chillwave', 'gauze', 'pop', 'vapor'}
+3icOg4GVam2ZVuHgwdS3MA;le sacerdotesse dell'isola del piacere;['italian emo', 'italian post-hardcore'];2809;11;{'italian', 'post-hardcore', 'emo'}
+3mmA5J7LGs3rpKZwNAkUbI;aucan;['italian electronica'];7986;8;{'italian', 'electronica'}
+3nzs6bowitMirGXyGQ72Qx;amesoeurs;['atmospheric black metal', 'blackgaze', 'french black metal', 'french shoegaze', 'gaian doom', 'post-black metal', 'post-metal'];49567;28;{'shoegaze', 'doom', 'post-black', 'metal', 'gaian', 'french', 'atmospheric', 'black', 'blackgaze', 'post-metal'}
+3pl5G4dfwQ1GmMEmvKB12r;heaven in her arms;['blackened screamo', 'japanese black metal', 'japanese emo', 'japanese post-hardcore', 'japanese screamo', 'skramz'];13653;17;{'blackened', 'metal', 'screamo', 'emo', 'japanese', 'black', 'post-hardcore', 'skramz'}
+3rvT6hIhacQRDl1STJ2rTT;casimir liberski;[];3109;11;set()
+3uHCTHxtg3IVAvhyrYsZvI;rolo tomassi;['chaotic hardcore', 'cybergrind', 'mathcore', 'nintendocore', 'uk metalcore', 'uk post-hardcore'];64201;37;{'uk', 'mathcore', 'nintendocore', 'hardcore', 'chaotic', 'metalcore', 'cybergrind', 'post-hardcore'}
+3v3VSKylQE69ztn5TUVlFE;nile;['brutal death metal', 'death metal', 'metal', 'oriental metal', 'south carolina metal', 'technical death metal', 'thrash metal'];250162;46;{'death', 'south', 'brutal', 'metal', 'thrash', 'technical', 'carolina', 'oriental'}
+3w38WFBaHzVOOp2QEa7EaF;en;[];182;2;set()
+40Ojab0UtVQFjA76qXr8Ot;apparat;['ambient pop', 'electronica', 'glitch', 'indietronica', 'trip hop'];404015;48;{'electronica', 'trip', 'indietronica', 'pop', 'hop', 'ambient', 'glitch'}
+427e5CiqmL4TmWb5Zvax7U;o k h o;[];25013;37;set()
+42iuvQyqIVy6vK3DRwHFwR;rubi ate the fig;[];1194;14;set()
+43ltIj8NRBsmOEjDr5Sk10;fantomas;['avant-garde metal', 'supergroup'];107215;32;{'avant-garde', 'supergroup', 'metal'}
+46iJ1VD4HKFnqjISGqlZkV;covet;['instrumental math rock', 'instrumental rock', 'math rock'];194068;41;{'rock', 'instrumental', 'math'}
+470SGea4tIbGLTpKcYJfLx;totorro;['french post-rock', 'instrumental math rock', 'math rock'];54867;32;{'post-rock', 'instrumental', 'french', 'rock', 'math'}
+49UAapOfpOg1ZOU4xf2NgY;noyz narcos;['italian hip hop', 'italian underground hip hop'];823163;68;{'hop', 'hip', 'italian', 'underground'}
+4A2mQPUdFa4R3MldFyenPR;yasume;['ambient idm', 'deep idm'];3619;5;{'ambient', 'deep', 'idm'}
+4AXRViJcT2cJ0x1CxSSldW;the end of the ocean;['american post-rock', 'cinematic post-rock', 'instrumental post-rock'];24870;35;{'american', 'cinematic', 'instrumental', 'post-rock'}
+4CuMwzDzEdlUJMEna38VQ0;dark polo gang;['italian hip hop', 'italian indie pop', 'italian pop', 'trap italiana'];1375848;60;{'hip', 'italian', 'hop', 'indie', 'pop', 'italiana', 'trap'}
+4DAuhWUSCvn4FFcVpgIqY6;cloudkicker;['djent', 'instrumental rock'];73946;33;{'djent', 'rock', 'instrumental'}
+4GBjy5w1YnrQaRzvMSVKtv;nina;[];59;0;set()
+4GolrXXRODq7bAGCod4JoV;deru;['ambient', 'ambient idm', 'drone', 'nu age', 'wonky'];23324;29;{'drone', 'nu', 'wonky', 'age', 'ambient', 'idm'}
+4HpJwqRQMbJQ4MyuLHfKRP;sunset mission;['deep progressive rock'];3765;9;{'progressive', 'rock', 'deep'}
+4KoZpKiPeX4jIi7Euwcfuo;thou;['drone metal', 'gaian doom', 'louisiana metal', 'post-doom metal', 'sludge metal', 'voidgrind'];87515;40;{'voidgrind', 'doom', 'metal', 'gaian', 'drone', 'sludge', 'louisiana', 'post-doom'}
+4RMQMEKlQ7AmPY3UnmciQk;sandia;[];2538;22;set()
+4S2VWuUV0ei7LG0I8JDFww;cephalic carnage;['brutal death metal', 'death metal', 'deathgrind', 'denver metal', 'grindcore', 'technical death metal', 'technical grindcore'];41731;21;{'death', 'brutal', 'metal', 'denver', 'technical', 'grindcore', 'deathgrind'}
+4S6FYETKT9NCN4zSD8xzJe;nugara trio;[];164;8;set()
+4SQdUpG4f7UbkJG3cJ2Iyj;arca;['ai', 'art pop', 'deconstructed club', 'escape room', 'experimental pop', 'fluxwork'];576644;61;{'art', 'fluxwork', 'experimental', 'room', 'club', 'pop', 'escape', 'deconstructed', 'ai'}
+4ULLVhwYkyOqpVxe0Asbtt;loma prieta;['chaotic hardcore', 'emo', 'screamo', 'skramz'];28643;22;{'screamo', 'hardcore', 'chaotic', 'emo', 'skramz'}
+4X8xPTUQoC19tQjPG40M81;botany;['instrumental hip hop', 'wonky'];14611;24;{'hop', 'hip', 'instrumental', 'wonky'}
+4XpPveeg7RuYS3CgLo75t9;deafheaven;['atmospheric black metal', 'blackened screamo', 'blackgaze', 'emotional black metal', 'post-metal', 'usbm'];246619;43;{'blackened', 'metal', 'screamo', 'usbm', 'emotional', 'atmospheric', 'black', 'blackgaze', 'post-metal'}
+4YygB8sfxuIcj2p0G9kpQ5;thank you scientist;['progressive jazz fusion'];136002;40;{'progressive', 'jazz', 'fusion'}
+4Z8W4fKeB5YxbusRsdQVPb;radiohead;['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock'];10681933;84;{'art', 'melancholia', 'indie', 'rock', 'wave', 'oxford', 'permanent', 'alternative'}
+4ZdbxATtc6RpHcxAHy0SLK;umlaut;['australian experimental'];4721;11;{'australian', 'experimental'}
+4azDTEsE76hndB8paNOEe8;zaharenco;[];263;12;set()
+4f5V3PQ66nIrBCqugJtaGn;death;['death metal', 'dissonant death metal', 'florida death metal', 'groove metal', 'hard rock', 'metal', 'speed metal', 'technical death metal'];922707;58;{'death', 'hard', 'florida', 'metal', 'dissonant', 'speed', 'rock', 'technical', 'groove'}
+4lgrzShsg2FLA89UM2fdO5;leprous;['norwegian metal', 'prog metal', 'progressive metal'];261408;52;{'norwegian', 'prog', 'progressive', 'metal'}
+4lianjyuR1tqf6oUX8kjrZ;franco battiato;['classic italian pop', 'experimental', 'italian adult pop'];819490;58;{'italian', 'adult', 'experimental', 'classic', 'pop'}
+4nDIRB3WZRZ40uSmZG0q6J;andrew pekler;['ambient dub', 'fourth world', 'hauntology', 'sound art'];8487;23;{'fourth', 'art', 'sound', 'dub', 'world', 'hauntology', 'ambient'}
+4pP3Gtdmwp2cHtz736pyGI;deathspell omega;['avant-garde black metal', 'black metal', 'dissonant death metal', 'french black metal', 'french metal', 'technical black metal', 'voidgaze'];74240;34;{'death', 'avant-garde', 'metal', 'french', 'dissonant', 'technical', 'voidgaze', 'black'}
+4rXMIjexfwIsaY2455P7jB;t.r.a.m;['djent', 'instrumental rock', 'progressive jazz fusion'];22053;18;{'progressive', 'djent', 'instrumental', 'fusion', 'rock', 'jazz'}
+4sgTqbA7htxYkRRJBPZIom;thy catafalque;['avant-garde metal', 'cosmic black metal', 'hungarian black metal', 'hungarian metal', 'sci-fi metal', 'slavic metal', 'symphonic death metal'];45757;34;{'death', 'avant-garde', 'slavic', 'metal', 'sci-fi', 'hungarian', 'cosmic', 'black', 'symphonic'}
+4svpOyfmQKuWpHLjgy4cdK;godspeed you! black emperor;['canadian post-rock', 'double drumming', 'instrumental post-rock', 'noise pop', 'post-rock'];430219;53;{'noise', 'canadian', 'post-rock', 'instrumental', 'drumming', 'pop', 'double'}
+50O4F2FV8zyBRRSyeHRFrV;indukti;['polish metal', 'progressive alternative'];10952;11;{'progressive', 'alternative', 'polish', 'metal'}
+50orxvaM7TaYBNVf9Nu4i6;bibles;[];327;0;set()
+51lE580QM13Anmb3mK2j1e;the dear hunter;['progressive jazz fusion', 'progressive post-hardcore'];157338;46;{'progressive', 'jazz', 'post-hardcore', 'fusion'}
+53LVoipNTQ4lvUSJ61XKU3;mono;['downtempo', 'instrumental post-rock', 'japanese post-rock', 'post-rock'];187853;39;{'japanese', 'instrumental', 'post-rock', 'downtempo'}
+543jOiqi5zLNZIOv7rA6rg;the haxan cloak;['hauntology', 'uk experimental electronic', 'warm drone'];33710;21;{'uk', 'experimental', 'drone', 'warm', 'hauntology', 'electronic'}
+56limjBRDYQGaBEWLRR72e;second woman;['mandible'];4925;9;{'mandible'}
+594PwrFy2mmLueuUwUgoCM;m¥ss keta;['italian indie pop', 'italian pop'];140718;46;{'pop', 'indie', 'italian'}
+59ZgafMXd7HL6gK49i1I3n;alamaailman vasarat;['avant-prog', 'experimental jazz', 'gypsy punk'];7703;16;{'gypsy', 'experimental', 'avant-prog', 'jazz', 'punk'}
+5C4iAQXHETeW2mJgsNeqQQ;jojo mayer;['livetronica'];34524;25;{'livetronica'}
+5F2anLSPQ3kdRkTcDm1ZDe;satoshy;[];235;0;set()
+5HXqlx7pIn2Ocp0m5wqaoY;blærg;['breakcore', 'drill and bass'];3043;5;{'bass', 'breakcore', 'and', 'drill'}
+5IO7IVEFyp7XkDMTXMAdQm;dystopia na!;['blackgaze', 'voidgaze'];1649;4;{'voidgaze', 'blackgaze'}
+5IikWY4p2vKlH5jZqwlK05;precipice;[];105;3;set()
+5NXHXK6hOCotCF8lvGM1I0;porcupine tree;['progressive metal', 'progressive rock'];711831;55;{'progressive', 'rock', 'metal'}
+5RFPnJvmjFkImIjgsWsdVx;noam leor;[];148;6;set()
+5RT5HhX4GcWV55NVHt99X4;koenjihyakkei;['japanese prog', 'japanese psychedelic rock', 'rock in opposition', 'zeuhl'];12160;10;{'opposition', 'japanese', 'rock', 'psychedelic', 'prog', 'in', 'zeuhl'}
+5S2qz9t9m2OSBtSLZz4tMx;zu;['brutal prog', 'contemporary jazz', 'jazzcore', 'progressive jazz fusion'];17915;19;{'progressive', 'jazzcore', 'brutal', 'fusion', 'contemporary', 'jazz', 'prog'}
+5YkOoDfxepfrbbyuimbo8c;eabs;['polish jazz', 'polish modern jazz'];19191;28;{'jazz', 'polish', 'modern'}
+5gqhueRUZEa7VDnQt4HODp;nils frahm;['compositional ambient', 'electronica', 'neoclassical darkwave'];669194;61;{'electronica', 'compositional', 'neoclassical', 'ambient', 'darkwave'}
+5hr385L9FJ0o8uWFMiPz4h;memory cassette;['chillwave'];6814;19;{'chillwave'}
+5mTGpQS4ifoFofw6ilhyqN;rototypical;[];884;5;set()
+5nXldeedEas60jZnMi40p4;cynic;['djent', 'florida death metal', 'jazz metal', 'miami metal', 'progressive metal', 'technical death metal'];120608;34;{'death', 'djent', 'progressive', 'metal', 'florida', 'technical', 'miami', 'jazz'}
+5r1fQsxkiQl0VwUlERnDBP;car bomb;['american metalcore', 'avant-garde metal', 'djent', 'mathcore'];65434;32;{'djent', 'avant-garde', 'metal', 'mathcore', 'metalcore', 'american'}
+5rMvvaFkWCWpfMSV4Gm93M;cripple bastards;['grindcore', 'italian hardcore'];20614;21;{'italian', 'hardcore', 'grindcore'}
+5sDMCDpqCKv0UrjRYn2dcA;tyler lee jones;[];278;5;set()
+5sTK6YZhFjR9eGDYtlYBCq;bipolar order;[];34;0;set()
+5tj8t2rXNyMRpER4EbFU93;valerian swing;['italian post-rock'];1818;14;{'italian', 'post-rock'}
+5wGMwXlBLMpuJzRpPxNFjq;giraffes? giraffes!;['instrumental math rock', 'instrumental rock', 'math rock'];49617;29;{'rock', 'instrumental', 'math'}
+5wu05jGsVMAFHYMYHqCB9l;avishai cohen;['contemporary jazz', 'israeli jazz', 'jazz', 'jazz double bass', 'jazz trumpet'];209326;47;{'bass', 'double', 'contemporary', 'jazz', 'trumpet', 'israeli'}
+5y835stYdAVOoNOq5EBMxz;ryoji ikeda;['glitch', 'microsound', 'sound art'];52467;28;{'art', 'sound', 'glitch', 'microsound'}
+60mqEPQp1eNjuwt1Z4yL4J;nothing;['american shoegaze', 'dreamgaze', 'dreamo', 'grungegaze', 'nu gaze', 'pennsylvania shoegaze', 'philly indie', 'shoegaze'];143442;44;{'shoegaze', 'dreamgaze', 'philly', 'pennsylvania', 'nu', 'dreamo', 'indie', 'grungegaze', 'american', 'gaze'}
+61WgG5fz5ilJrMne7tE1zu;caterina barbieri;['electra', 'experimental ambient', 'experimental synth', 'fluxwork', 'italian experimental', 'modular synth', 'spectra'];84194;32;{'fluxwork', 'italian', 'experimental', 'modular', 'electra', 'synth', 'spectra', 'ambient'}
+61r4cE4aoOD50wPNhQ5fF7;elio e le storie tese;['italian adult pop', 'italian alternative'];196409;44;{'pop', 'alternative', 'italian', 'adult'}
+62CfLeDYrpsHmZvl3IIoKl;hell demonio;[];70;0;set()
+62evrwxHqQSN16y9hwSLfg;taylor j hawkins;[];1891;11;set()
+64tNsm6TnZe2zpcMVMOoHL;alice in chains;['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock'];5329696;75;{'hard', 'grunge', 'metal', 'nu', 'rock', 'alternative'}
+65C6Unk7nhg2aCnVuAPMo8;animals as leaders;['djent', 'instrumental djent', 'instrumental rock', 'jazz metal', 'progressive jazz fusion', 'progressive metal'];548143;50;{'progressive', 'djent', 'metal', 'instrumental', 'fusion', 'rock', 'jazz'}
+66iP8O2dQRaGjVTr42vW0V;richard henshall;['jazz metal', 'modern progressive rock', 'progressive metal'];11208;28;{'progressive', 'metal', 'rock', 'jazz', 'modern'}
+6DVVsQAnpHdJjb1nYuOQ6g;65daysofstatic;['instrumental post-rock', 'post-rock'];139732;42;{'instrumental', 'post-rock'}
+6HQYnRM4OzToCYPpVBInuU;kamasi washington;['afrofuturism', 'contemporary jazz', 'indie soul', 'jazz', 'jazz saxophone'];481333;57;{'indie', 'soul', 'saxophone', 'contemporary', 'jazz', 'afrofuturism'}
+6HWwPPwublvn8KbCzcV82m;stormo;['italian emo', 'italian hardcore', 'italian post-hardcore', 'italian screamo'];7687;13;{'italian', 'screamo', 'hardcore', 'emo', 'post-hardcore'}
+6ImfL6wSxqhYl64AbsaNZX;tpr;['japanese vgm'];35256;54;{'japanese', 'vgm'}
+6MjptgkJeSDoQsPDVxQ5oo;aeham ahmad;[];489;6;set()
+6NVzd3Lv9yMFIf1bsXNLIp;mouse on the keys;['instrumental math rock', 'japanese post-rock', 'math rock', 'modern jazz trio'];69243;34;{'trio', 'post-rock', 'instrumental', 'japanese', 'rock', 'math', 'jazz', 'modern'}
+6RuS4udHwx3C9ysk4KXtNw;jizue;['japanese jazz fusion', 'japanese post-rock', 'math rock', 'progressive jazz fusion'];47264;35;{'progressive', 'post-rock', 'fusion', 'japanese', 'rock', 'math', 'jazz'}
+6RxI3tCP0Olcb9dMar7e9e;arrangement;[];6693;24;set()
+6VyHswI5PKKQ8bSw8bOsIz;nova collective;['djent', 'progressive jazz fusion'];16419;13;{'progressive', 'djent', 'fusion', 'jazz'}
+6XbKPBTlFkkxK4imOnLGI6;atomic ape;['avant-prog', 'avant-rock'];2371;4;{'avant-prog', 'avant-rock'}
+6YK58h9BCYpFNv10fsMwoS;pg.lost;['instrumental post-rock', 'nordic post-rock', 'post-metal', 'post-rock'];75719;30;{'instrumental', 'post-metal', 'nordic', 'post-rock'}
+6ZK2nrW8aCTg8Bid7I7N10;chelsea wolfe;['dark pop', 'doomgaze', 'gaian doom', 'sacramento indie'];323898;51;{'doom', 'gaian', 'pop', 'indie', 'doomgaze', 'sacramento', 'dark'}
+6bYFkBNvayh3nGqxcPp7Sv;ulver;['black metal', 'doom metal', 'downtempo', 'drone metal', 'norwegian black metal', 'norwegian metal', 'post-metal'];175381;44;{'doom', 'metal', 'norwegian', 'drone', 'downtempo', 'black', 'post-metal'}
+6cf7rkFSl5EwBUGzPboUfq;rooftops;['russian hardcore', 'russian indie rock'];7839;13;{'indie', 'rock', 'hardcore', 'russian'}
+6d24kC5fxHFOSEAmjQPPhc;periphery;['djent', 'melodic metalcore', 'progressive metal', 'progressive metalcore'];507019;54;{'progressive', 'djent', 'melodic', 'metal', 'metalcore'}
+6e8ISIsI7UQZPyEorefAhK;dimmu borgir;['black metal', 'gothic metal', 'melodic death metal', 'metal', 'norwegian black metal', 'norwegian metal', 'power metal', 'speed metal', 'symphonic black metal', 'symphonic metal', 'viking metal'];533066;52;{'death', 'melodic', 'metal', 'norwegian', 'viking', 'power', 'speed', 'black', 'gothic', 'symphonic'}
+6fuALtryzj4cq7vkglKLxq;the ocean;['atmospheric post-metal', 'atmospheric sludge', 'djent', 'post-metal', 'progressive metal', 'progressive sludge', 'sludge metal'];139236;43;{'progressive', 'djent', 'metal', 'sludge', 'atmospheric', 'post-metal'}
+6jMKza3BVR3gn6l4GjhZnX;paul jebanasam;['nu age'];2843;7;{'age', 'nu'}
+6kBDZFXuLrZgHnvmPu9NsG;aphex twin;['ambient', 'braindance', 'electronica', 'intelligent dance music', 'uk experimental electronic'];1496492;68;{'braindance', 'electronica', 'dance', 'intelligent', 'uk', 'experimental', 'music', 'ambient', 'electronic'}
+6mtABo05yeYtPftYEVfGoV;clown core;['breakcore'];122544;42;{'breakcore'}
+6nxWCVXbOlEVRexSbLsTer;flume;['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica'];2462347;72;{'dance', 'electropop', 'indietronica', 'edm', 'australian', 'indie', 'downtempo'}
+6p9KeMVhd7SS0CYh9l44bq;maxophone;['italian progressive rock'];5768;7;{'progressive', 'italian', 'rock'}
+6qEM4txXHvfMbOUOK9L7pl;ben frost;['ambient', 'australian experimental', 'compositional ambient', 'drone', 'icelandic classical', 'icelandic experimental', 'mandible', 'soundtrack'];67330;32;{'compositional', 'experimental', 'drone', 'mandible', 'australian', 'classical', 'ambient', 'soundtrack', 'icelandic'}
+6rr2GYpITSsMMTegsFsDNP;spastic ink;['jazz metal'];11785;11;{'jazz', 'metal'}
+6s1SjCXRjeNAa3aRNiYROK;shxcxchcxsh;['ambient techno', 'minimal dub', 'swedish electronic', 'swedish techno'];31986;24;{'dub', 'minimal', 'techno', 'swedish', 'ambient', 'electronic'}
+6syYSX0eLH4srCtXhUEMXD;zeta;['math rock latinoamericano'];17215;26;{'latinoamericano', 'rock', 'math'}
+6tlyNmvYttsFm44WqrYEf0;orax;['synthwave'];15382;31;{'synthwave'}
+6u5axd0rpDsWSmzhFfb2VB;william basinski;['ambient', 'compositional ambient', 'drone', 'fourth world', 'hauntology', 'intelligent dance music', 'sound art', 'tape music'];126154;44;{'fourth', 'art', 'sound', 'intelligent', 'compositional', 'dance', 'drone', 'tape', 'music', 'world', 'hauntology', 'ambient'}
+6v9XKyEf4HKmUMr3D6weIO;textures;['djent', 'dutch metal', 'progressive metal'];73302;38;{'progressive', 'djent', 'dutch', 'metal'}
+6y80I9YZi4DOpbaSUlL725;shlohmo;['downtempo', 'electronica', 'future garage', 'glitch', 'instrumental hip hop', 'wonky'];245568;46;{'future', 'hip', 'electronica', 'instrumental', 'wonky', 'hop', 'downtempo', 'garage', 'glitch'}
+6yKttjzeTv9imIZbAJPSqB;villa psicosi;[];410;5;set()
+6yyZgcrQ10gThrJxzqogiP;tomahawk;['grunge', 'industrial rock'];133181;36;{'rock', 'industrial', 'grunge'}
+710FHFQeXKC6dZGCxt7kQh;yussef kamaal;['afrobeat', 'broken beat', 'contemporary jazz', 'indie jazz', 'indie soul', 'uk contemporary jazz'];141983;34;{'uk', 'broken', 'beat', 'indie', 'soul', 'contemporary', 'afrobeat', 'jazz'}
+72X6FHxaShda0XeQw3vbeF;slowdive;['alternative rock', 'dream pop', 'reading indie', 'shoegaze'];1129067;65;{'shoegaze', 'reading', 'pop', 'indie', 'rock', 'alternative', 'dream'}
+73LvjicByRK5LazcQYZMAY;blanck mass;['abstractro', 'fluxwork', 'hauntology', 'mandible', 'uk experimental electronic'];47692;27;{'fluxwork', 'abstractro', 'uk', 'mandible', 'experimental', 'hauntology', 'electronic'}
+74KPeP60dRLSAAk7sFtWTC;sleepytime gorilla museum;['avant-garde metal', 'avant-prog', 'avant-rock', 'funk metal', 'rock in opposition'];31948;23;{'avant-garde', 'avant-rock', 'metal', 'opposition', 'avant-prog', 'rock', 'in', 'funk'}
+7CJOQujUReYlz6764HKQWz;equinox trio;[];316;2;set()
+7DeuppKQdCVhuWrzzCBBpc;hiromi;['japanese jazz', 'jazz fusion', 'modern jazz piano'];252726;48;{'fusion', 'japanese', 'jazz', 'piano', 'modern'}
+7E1Rns82siABgS79x6FTEO;gonin-ish;['jazz metal'];2095;5;{'jazz', 'metal'}
+7E7fJJpdVgr1F3pfAfRtHe;cult of luna;['atmospheric post-metal', 'atmospheric sludge', 'drone metal', 'post-metal', 'progressive sludge', 'slayer', 'sludge metal', 'stoner metal', 'swedish doom metal', 'swedish progressive metal'];136026;39;{'progressive', 'slayer', 'doom', 'metal', 'drone', 'stoner', 'sludge', 'atmospheric', 'swedish', 'post-metal'}
+7I97vDNVLsaPERFdz1pVWG;flammen;[];63;0;set()
+7eKIP3IoPoUAZgZuvMM6hf;venetian snares;['braindance', 'breakcore', 'deep idm', 'drill and bass', 'hardcore techno', 'intelligent dance music'];124331;37;{'braindance', 'bass', 'intelligent', 'dance', 'and', 'hardcore', 'techno', 'music', 'drill', 'breakcore', 'deep', 'idm'}
+7fpjImuvKls8BeMFW9iil5;lymbyc systym;['american post-rock'];17544;24;{'american', 'post-rock'}
+7iF8WHm0PoYS4AnEebM3bv;weston super maim;['mathcore'];2978;15;{'mathcore'}
+7indGc1Jxbza3ehwm9ffVc;dev/null;['breakcore', 'flashcore', 'modern jungle', 'new england experimental'];6131;19;{'england', 'experimental', 'flashcore', 'jungle', 'new', 'breakcore', 'modern'}
+7kHzfxMLtVHHb523s43rY1;converge;['boston hardcore', 'chaotic hardcore', 'mathcore', 'metalcore', 'post-hardcore', 'post-rock', 'sludge metal'];216411;44;{'boston', 'post-rock', 'metal', 'mathcore', 'hardcore', 'chaotic', 'sludge', 'metalcore', 'post-hardcore'}
+5kPedB70NoaucwCvU7awih;artist page redirect cleanup 2023;[];39;0;set()
+7ljGraiXXxLQv88TVlOIZQ;blotted science;['djent', 'instrumental rock', 'jazz metal', 'technical death metal'];36123;22;{'death', 'djent', 'metal', 'instrumental', 'rock', 'technical', 'jazz'}
+7mKwhB3UiepqzM946jBOyi;lorenzo senni;['deconstructed club', 'italian experimental'];23729;21;{'experimental', 'italian', 'deconstructed', 'club'}
+7nCgNmfYJcsVy3vOOzExYS;the contortionist;['djent', 'sci-fi metal'];178510;41;{'djent', 'sci-fi', 'metal'}
+7neQI2HpRBRTcQmHexnk4R;alpinist;['blackened hardcore', 'neo-crust'];8436;12;{'neo-crust', 'blackened', 'hardcore'}
+7swiuMho0UMNYbZqcO0dho;akhlys;['atmospheric black metal', 'autonomous black metal', 'black metal', 'symphonic black metal', 'voidgaze'];45643;30;{'metal', 'atmospheric', 'autonomous', 'voidgaze', 'black', 'symphonic'}
+7uPonKjcfbRGdaR1R494ap;brainwave tuning los angeles;[];35;0;set()
+7v5E9zviGMsOGHRdMVmhDc;roedelius;['berlin school', 'fourth world', 'krautrock'];33837;40;{'fourth', 'krautrock', 'school', 'world', 'berlin'}
+7w2cQkraSNaYeHe5nHgvA8;cosmic putrefaction;['cosmic death metal', 'dissonant death metal', 'italian death metal'];8957;27;{'death', 'italian', 'metal', 'dissonant', 'cosmic'}
+7xWiDoGWQbKwj2VyG14xK2;made out of babies;['gaian doom', 'post-metal'];16546;18;{'gaian', 'doom', 'post-metal'}
+7yMpYMZTr6Hm1Dm5CR0CRZ;an autumn for crippled children;['atmospheric black metal', 'avant-garde black metal', 'blackgaze', 'dutch black metal', 'dutch shoegaze', 'emotional black metal'];35434;26;{'avant-garde', 'shoegaze', 'metal', 'emotional', 'atmospheric', 'dutch', 'black', 'blackgaze'}
+7yxi31szvlbwvKq9dYOmFI;jon hopkins;['electronica', 'intelligent dance music'];520485;66;{'dance', 'electronica', 'intelligent', 'music'}
+7yznkE2TVjMawISsOb0kcv;terraformer;[];523;8;set()

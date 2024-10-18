@@ -1,0 +1,383 @@
+artist;month;year;Date;days_to_event;addressCountry;addressLocality;geocoordinates;distance_from_Sesto;popularity;specific_genre
+gojira;7;2025;29/07/2025 15:00;283;France;Carcassonne;(43.21, 2.35);605.7;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;7;2025;30/07/2025 19:00;284;Romania;Braşov;(45.65, 25.61);1276.0;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;7;2025;30/07/2025 19:00;284;Germany;Wacken;(54.02, 9.38);944.4;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;8;2025;06/08/2025 19:00;291;Czech Republic;Jaroměř;(50.34, 15.92);731.5;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;8;2025;07/08/2025 19:00;292;United Kingdom;Walton On Trent;(52.74, -1.7);1128.6;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;8;2025;13/08/2025 19:00;298;Germany;Dinkelsbühl;(49.07, 10.32);402.1;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;8;2025;14/08/2025 19:00;299;Germany;Sulingen;(52.67, 8.81);794.6;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;11;2025;27/11/2025 19:00;404;France;Reims;(49.26, 4.03);570.8;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;11;2025;28/11/2025 19:00;405;France;Lille;(50.63, 3.08);728.6;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;11;2025;30/11/2025 19:00;407;France;Paris;(48.85, 2.35);638.4;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;01/12/2025 19:00;408;France;Rouen;(49.44, 1.1);750.6;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;02/12/2025 19:00;409;France;Saint-herblain;(47.23, -1.62);855.1;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;04/12/2025 19:00;411;France;Toulouse;(43.6, 1.41);656.9;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;05/12/2025 19:00;412;France;Clermont-ferrand;(45.78, 3.09);479.3;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;06/12/2025 19:00;413;France;Marseille;(43.32, 5.41);390.9;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;08/12/2025 19:00;415;France;Nice;(43.68, 7.2);261.2;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;09/12/2025 19:00;416;France;Bordeaux;(44.84, -0.58);774.3;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;10/12/2025 19:00;417;France;Lyon;(45.77, 4.98);332.3;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+gojira;12;2025;12/12/2025 19:00;419;France;Strasbourg;(48.58, 7.75);357.2;67;{'groove', 'metal', 'progressive', 'nu', 'death', 'french', 'alternative'}
+jon hopkins;11;2024;11/11/2024 19:30;23;United Kingdom;London;(51.55, -0.08);958.2;66;{'intelligent', 'dance', 'music', 'electronica'}
+slowdive;4;2025;10/04/2025 19:30;173;United Kingdom;London;(51.47, -0.11);954.0;65;{'shoegaze', 'dream', 'indie', 'pop', 'rock', 'reading', 'alternative'}
+dream theater;10;2024;20/10/2024 19:00;1;United Kingdom;London;(51.5, 0.0);950.3;63;{'progressive', 'metal'}
+dream theater;10;2024;22/10/2024 19:00;3;Germany;Berlin;(52.51, 13.44);834.7;63;{'progressive', 'metal'}
+dream theater;10;2024;23/10/2024 19:00;4;Germany;Köln;(50.97, 7.02);626.7;63;{'progressive', 'metal'}
+dream theater;10;2024;25/10/2024 19:00;6;Italy;Assago;(45.4, 9.14);16.1;63;{'progressive', 'metal'}
+dream theater;10;2024;26/10/2024 19:00;7;Italy;Roma;(41.82, 12.47);487.9;63;{'progressive', 'metal'}
+dream theater;10;2024;28/10/2024 19:00;9;Germany;Munich;(48.19, 11.61);346.9;63;{'progressive', 'metal'}
+dream theater;10;2024;29/10/2024 19:00;10;Croatia;Zagreb;(45.77, 15.94);523.6;63;{'progressive', 'metal'}
+dream theater;11;2024;01/11/2024 19:00;13;Hungary;Budapest;(47.5, 19.11);788.6;63;{'progressive', 'metal'}
+dream theater;11;2024;02/11/2024 19:00;14;Czechia;Hradec Kralove;(50.21, 15.83);716.8;63;{'progressive', 'metal'}
+dream theater;11;2024;02/11/2024 20:00;14;Czechia;Praha 7;(50.1, 14.43);639.9;63;{'progressive', 'metal'}
+dream theater;11;2024;03/11/2024 19:00;15;Poland;Łódź;(51.76, 19.43);1020.5;63;{'progressive', 'metal'}
+dream theater;11;2024;06/11/2024 19:00;18;Finland;Espoo;(60.18, 24.79);1927.4;63;{'progressive', 'metal'}
+dream theater;11;2024;08/11/2024 19:00;20;Sweden;Stockholm;(59.33, 18.07);1645.7;63;{'progressive', 'metal'}
+dream theater;11;2024;09/11/2024 19:00;21;Norway;Oslo;(59.91, 10.75);1603.4;63;{'progressive', 'metal'}
+dream theater;11;2024;10/11/2024 19:00;22;Denmark;København;(55.69, 12.62);1155.0;63;{'progressive', 'metal'}
+dream theater;11;2024;12/11/2024 19:00;24;Luxembourg;Esch-sur-alzette;(49.5, 5.95);505.7;63;{'progressive', 'metal'}
+dream theater;11;2024;13/11/2024 19:00;25;Switzerland;Dübendorf;(47.4, 8.6);213.4;63;{'progressive', 'metal'}
+dream theater;11;2024;14/11/2024 20:00;26;France;Lyon;(45.73, 4.83);343.8;63;{'progressive', 'metal'}
+dream theater;11;2024;16/11/2024 19:00;28;Portugal;Lisboa;(38.77, -9.09);1684.9;63;{'progressive', 'metal'}
+dream theater;11;2024;17/11/2024 19:00;29;Spain;Leganés;(40.33, -3.76);1205.5;63;{'progressive', 'metal'}
+dream theater;11;2024;20/11/2024 19:00;32;Germany;Stuttgart;(48.78, 9.17);361.3;63;{'progressive', 'metal'}
+dream theater;11;2024;21/11/2024 19:00;33;Germany;Frankfurt Am Main;(50.1, 8.52);510.9;63;{'progressive', 'metal'}
+dream theater;11;2024;23/11/2024 19:00;35;France;Paris;(48.9, 2.36);640.8;63;{'progressive', 'metal'}
+dream theater;11;2024;24/11/2024 19:00;36;Netherlands;Amsterdam;(52.31, 4.94);816.6;63;{'progressive', 'metal'}
+nils frahm;10;2024;19/10/2024 19:00;0;Belgium;Antwerpen;(51.22, 4.42);725.8;61;{'neoclassical', 'darkwave', 'electronica', 'ambient', 'compositional'}
+arca;10;2024;31/10/2024 18:00;12;Italy;Torino;(45.03, 7.66);135.1;61;{'ai', 'experimental', 'pop', 'deconstructed', 'escape', 'art', 'room', 'club', 'fluxwork'}
+arca;11;2024;01/11/2024 17:30;13;Italy;Torino;(45.03, 7.66);135.1;61;{'ai', 'experimental', 'pop', 'deconstructed', 'escape', 'art', 'room', 'club', 'fluxwork'}
+opeth;2;2025;09/02/2025 19:00;113;Finland;Helsinki;(60.19, 24.92);1932.8;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;11/02/2025 19:00;115;Sweden;Stockholm;(59.32, 18.1);1645.4;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;12/02/2025 19:00;116;Norway;Oslo;(59.92, 10.75);1604.5;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;14/02/2025 19:00;118;Denmark;København S;(55.66, 12.59);1151.3;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;15/02/2025 19:00;119;Germany;Hamburg;(53.55, 9.96);893.5;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;17/02/2025 19:00;121;Germany;Köln;(50.97, 7.02);626.7;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;18/02/2025 19:00;122;Germany;Berlin;(52.5, 13.38);832.1;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;19/02/2025 19:00;123;Germany;München;(48.13, 11.59);340.5;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;21/02/2025 19:00;125;France;Paris;(48.87, 2.33);640.9;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;22/02/2025 19:00;126;Netherlands;Amsterdam;(52.31, 4.94);816.6;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;23/02/2025 19:00;127;Belgium;Bruxelles;(50.85, 4.35);693.6;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;25/02/2025 19:00;129;United Kingdom;Bristol;(51.45, -2.6);1092.3;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;26/02/2025 19:00;130;United Kingdom;London;(51.54, -0.15);961.1;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;2;2025;28/02/2025 19:00;132;United Kingdom;Birmingham;(52.48, -1.91);1120.9;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;3;2025;01/03/2025 19:00;133;United Kingdom;Manchester;(53.48, -2.25);1210.8;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+opeth;3;2025;02/03/2025 19:00;134;United Kingdom;Glasgow;(55.86, -4.24);1486.7;59;{'swedish', 'progressive', 'metal', 'death', 'alternative'}
+san holo;10;2024;19/10/2024 19:00;0;France;Paris;(48.89, 2.39);638.4;57;{'electronic', 'trap', 'bass', 'pop', 'electro', 'house', 'edm', 'brostep', 'dance', 'future'}
+kamasi washington;3;2025;12/03/2025 20:00;144;Sweden;Johanneshov;(59.29, 18.08);1641.9;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;14/03/2025 20:00;146;Sweden;Malmö;(55.59, 13.01);1150.2;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;15/03/2025 20:00;147;Norway;Oslo;(59.91, 10.75);1603.4;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;17/03/2025 20:00;149;Germany;Berlin;(52.51, 13.33);831.8;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;18/03/2025 20:30;150;Czech Republic;Brno;(49.21, 16.59);689.7;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;19/03/2025 20:00;151;Poland;Warszawa;(52.21, 21.01);1137.1;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;21/03/2025 21:00;153;Germany;München;(48.17, 11.65);346.7;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;23/03/2025 20:30;155;Spain;Eixample;(41.39, 2.16);733.6;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;24/03/2025 21:00;156;Spain;Madrid;(40.41, -3.72);1197.8;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;25/03/2025 21:00;157;Portugal;Porto;(41.14, -8.61);1522.9;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;26/03/2025 20:00;158;Portugal;Lisboa;(38.72, -9.14);1691.5;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;28/03/2025 20:30;160;France;Cenon;(44.86, -0.52);769.3;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;30/03/2025 21:00;162;Switzerland;Zurich;(47.38, 8.53);212.6;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;3;2025;31/03/2025 19:00;163;Switzerland;Lausanne;(46.52, 6.62);230.1;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;01/04/2025 20:00;164;France;Paris;(48.88, 2.3);643.3;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;03/04/2025 20:00;166;United Kingdom;Cardiff;(51.49, -3.18);1128.9;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;04/04/2025 20:00;167;United Kingdom;Manchester;(53.48, -2.25);1210.8;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;05/04/2025 19:30;168;United Kingdom;Gateshead;(54.97, -1.6);1300.4;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;06/04/2025 20:00;169;United Kingdom;Glasgow;(55.86, -4.24);1486.7;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;08/04/2025 20:00;171;Ireland;Dublin;(53.34, -6.27);1415.6;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;09/04/2025 19:00;172;Ireland;Cork;(51.9, -8.47);1477.2;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;11/04/2025 19:00;174;United Kingdom;Leeds;(53.8, -1.57);1203.1;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;13/04/2025 20:00;176;United Kingdom;London;(51.47, -0.11);954.0;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;14/04/2025 19:00;177;United Kingdom;Brighton;(50.82, -0.14);910.7;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;15/04/2025 20:00;178;Belgium;Bruxelles;(50.84, 4.36);692.3;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;17/04/2025 20:00;180;Germany;Köln;(50.97, 7.01);626.9;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;19/04/2025 20:00;182;Germany;Frankfurt Am Main;(50.14, 8.74);513.9;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;20/04/2025 20:00;183;Netherlands;Amsterdam;(52.36, 4.88);823.3;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;22/04/2025 20:00;185;Italy;Milan;(45.49, 9.18);5.9;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;23/04/2025 21:00;186;Italy;Roma;(41.93, 12.48);478.0;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;24/04/2025 20:00;187;Italy;Bologna;(44.52, 11.37);202.6;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;26/04/2025 20:00;189;Netherlands;Da Groningen;(53.21, 6.58);875.4;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;27/04/2025 20:00;190;Netherlands;Utrecht;(52.09, 5.11);789.5;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+kamasi washington;4;2025;29/04/2025 18:00;192;Greece;Athens;(37.98, 23.73);1465.2;57;{'contemporary', 'jazz', 'indie', 'soul', 'afrofuturism', 'saxophone'}
+meshuggah;6;2025;07/06/2025 19:00;231;Netherlands;Maastricht;(50.86, 5.68);648.6;56;{'djent', 'swedish', 'groove', 'metal', 'progressive', 'nu', 'thrash', 'technical', 'alternative'}
+periphery;2;2025;13/02/2025 19:00;117;United Kingdom;London;(51.59, -0.13);963.7;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+periphery;2;2025;15/02/2025 19:00;119;Germany;Berlin;(52.48, 13.39);830.3;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+periphery;2;2025;16/02/2025 19:00;120;Netherlands;Tilburg;(51.56, 5.09);736.6;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+periphery;2;2025;18/02/2025 19:00;122;France;Paris;(48.87, 2.33);640.9;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+periphery;2;2025;19/02/2025 19:00;123;Germany;Köln;(50.97, 7.02);626.7;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+periphery;2;2025;20/02/2025 19:00;124;Germany;Frankfurt;(50.12, 8.75);511.6;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+periphery;2;2025;22/02/2025 19:00;126;Germany;Munich;(48.13, 11.61);341.3;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+periphery;2;2025;23/02/2025 19:00;127;Germany;Hamburg;(53.55, 9.96);893.5;54;{'djent', 'metal', 'progressive', 'melodic', 'metalcore'}
+sam gellaitry;10;2024;19/10/2024 22:00;0;United Kingdom;London;(51.55, -0.08);958.2;54;{'electronic', 'scottish', 'twitch', 'bass', 'future', 'vapor'}
+leprous;1;2025;16/01/2025 18:30;89;Spain;Madrid;(40.42, -3.72);1197.2;52;{'progressive', 'norwegian', 'prog', 'metal'}
+leprous;1;2025;17/01/2025 18:30;90;France;Paris;(48.88, 2.3);643.3;52;{'progressive', 'norwegian', 'prog', 'metal'}
+leprous;1;2025;31/01/2025 19:00;104;United Kingdom;London;(51.55, -0.14);961.3;52;{'progressive', 'norwegian', 'prog', 'metal'}
+leprous;2;2025;01/02/2025 18:30;105;Poland;Warsaw;(52.22, 20.93);1133.4;52;{'progressive', 'norwegian', 'prog', 'metal'}
+leprous;2;2025;07/02/2025 18:30;111;Netherlands;Tilburg;(51.56, 5.09);736.6;52;{'progressive', 'norwegian', 'prog', 'metal'}
+leprous;2;2025;08/02/2025 20:00;112;Germany;Köln;(50.97, 7.01);626.9;52;{'progressive', 'norwegian', 'prog', 'metal'}
+leprous;2;2025;15/02/2025 19:00;119;Norway;Oslo;(59.92, 10.75);1604.5;52;{'progressive', 'norwegian', 'prog', 'metal'}
+chelsea wolfe;10;2024;25/10/2024 19:30;6;Ireland;Dublin;(53.34, -6.26);1415.1;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;10;2024;26/10/2024 19:00;7;United Kingdom;Belfast;(54.59, -5.93);1475.4;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;10;2024;27/10/2024 19:00;8;United Kingdom;Glasgow;(55.87, -4.29);1489.7;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;10;2024;28/10/2024 19:30;9;United Kingdom;Manchester;(53.46, -2.23);1208.4;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;10;2024;29/10/2024 19:00;10;United Kingdom;London;(51.53, -0.14);959.9;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;10;2024;31/10/2024 19:30;12;United Kingdom;Leeds;(53.8, -1.55);1202.2;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;01/11/2024 18:30;13;United Kingdom;Brighton;(50.82, -0.14);910.7;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;02/11/2024 18:00;14;United Kingdom;Bristol;(51.45, -2.58);1091.1;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;05/11/2024 20:30;17;France;Vallières-lès-metz;(49.13, 6.22);460.3;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;06/11/2024 20:00;18;Switzerland;Zürich;(47.34, 8.54);208.1;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;08/11/2024 19:00;20;Spain;Barcelona;(41.4, 2.19);731.0;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;09/11/2024 20:00;21;Spain;City Center;(40.42, -3.7);1195.8;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;12/11/2024 19:00;24;France;St Jean De Vedas;(43.57, 3.85);479.6;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+chelsea wolfe;11;2024;13/11/2024 20:00;25;Italy;Segrate;(45.46, 9.29);9.1;51;{'gaian', 'indie', 'sacramento', 'doom', 'pop', 'dark', 'doomgaze'}
+animals as leaders;2;2025;25/02/2025 19:00;129;France;Paris;(48.88, 2.33);641.5;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;2;2025;26/02/2025 19:00;130;Belgium;Bruxelles;(50.88, 4.35);696.4;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;2;2025;27/02/2025 19:00;131;Germany;Hamburg;(53.55, 9.96);893.5;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;2;2025;28/02/2025 19:00;132;Denmark;Copenhagen;(55.66, 12.61);1151.6;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;01/03/2025 19:00;133;Germany;Berlin;(52.49, 13.42);832.1;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;02/03/2025 19:00;134;Germany;Leipzig;(51.32, 12.33);683.3;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;04/03/2025 19:00;136;Czech Republic;Prague;(50.09, 14.43);639.0;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;05/03/2025 19:00;137;Austria;Vienna;(48.17, 16.42);621.6;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;06/03/2025 19:00;138;Italy;Milan;(45.44, 9.2);10.3;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;07/03/2025 19:00;139;Switzerland;Zurich;(47.38, 8.53);212.6;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;09/03/2025 19:00;141;Germany;München;(48.13, 11.59);340.5;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;10/03/2025 19:00;142;Germany;Frankfurt Am Main;(50.14, 8.74);513.9;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;11/03/2025 19:00;143;Germany;Köln;(50.97, 7.01);626.9;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;12/03/2025 19:00;144;Netherlands;Tilburg;(51.56, 5.09);736.6;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;12/03/2025 19:00;144;Netherlands;Doorwerth;(51.98, 5.8);760.1;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;14/03/2025 19:00;146;United Kingdom;Manchester;(53.48, -2.25);1210.8;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+animals as leaders;3;2025;15/03/2025 19:00;147;United Kingdom;London;(51.54, -0.15);961.1;50;{'djent', 'jazz', 'metal', 'progressive', 'instrumental', 'rock', 'fusion'}
+apparat;11;2024;29/11/2024 22:00;41;United Kingdom;North London;(51.55, -0.12);960.3;48;{'trip', 'pop', 'hop', 'glitch', 'electronica', 'ambient', 'indietronica'}
+alcest;10;2024;21/10/2024 20:00;2;Croatia;Zagreb;(45.8, 15.97);525.9;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;10;2024;23/10/2024 18:30;4;Greece;Athina;(38.0, 23.72);1463.1;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;10;2024;24/10/2024 18:30;5;Greece;Thessaloniki;(40.63, 22.96);1241.3;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;10;2024;26/10/2024 21:00;7;Turkey;İstanbul;(41.04, 28.98);1673.8;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;10;2024;28/10/2024 18:30;9;Romania;București;(44.44, 26.06);1330.4;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;01/11/2024 18:30;13;France;Strasbourg;(48.56, 7.77);354.6;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;02/11/2024 18:30;14;Switzerland;Zürich;(47.38, 8.54);212.4;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;09/11/2024 18:30;21;France;Poitiers;(46.57, 0.36);695.8;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;13/11/2024 20:00;25;Germany;Köln;(50.92, 6.98);622.1;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;14/11/2024 20:00;26;Germany;Stuttgart;(48.78, 9.18);361.3;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;15/11/2024 20:00;27;Germany;München;(48.15, 11.52);339.6;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;16/11/2024 18:30;28;Italy;Milan;(45.49, 9.18);5.9;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;18/11/2024 18:30;30;Slovenia;Ljubljana;(46.07, 14.49);413.2;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;19/11/2024 20:00;31;Austria;Wien;(48.17, 16.42);621.6;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;20/11/2024 18:30;32;Hungary;Budapest;(47.46, 19.06);783.9;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;21/11/2024 18:00;33;Czechia;Praha 1;(50.09, 14.42);638.5;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;23/11/2024 20:00;35;Germany;Berlin;(52.5, 13.45);834.0;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;24/11/2024 18:30;36;Poland;Warsaw;(52.21, 20.99);1136.0;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;25/11/2024 18:30;37;Lithuania;Vilnius;(54.67, 25.27);1526.7;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;26/11/2024 18:30;38;Estonia;Tallinn;(59.45, 24.71);1862.1;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;27/11/2024 18:30;39;Finland;Helsinki;(60.19, 24.94);1933.5;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;29/11/2024 18:30;41;Sweden;Stockholm;(59.3, 18.09);1643.2;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;11;2024;30/11/2024 20:00;42;Norway;Oslo;(59.92, 10.75);1604.5;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;01/12/2024 20:00;43;Denmark;København;(55.67, 12.54);1151.7;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;03/12/2024 20:00;45;Germany;Hamburg;(53.55, 9.96);893.5;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;04/12/2024 18:30;46;Netherlands;Amsterdam;(52.36, 4.88);823.3;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;05/12/2024 19:00;47;Belgium;Bruxelles;(50.85, 4.35);693.6;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;06/12/2024 20:00;48;France;Paris;(48.87, 2.33);640.9;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;07/12/2024 20:00;49;Luxembourg;Luxembourg-city;(49.6, 6.13);509.0;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;08/12/2024 20:00;50;Germany;Frankfurt Am Main;(50.14, 8.74);513.9;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;11/12/2024 19:00;53;United Kingdom;London;(51.46, -0.12);953.8;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;12/12/2024 19:30;54;United Kingdom;Manchester;(53.46, -2.23);1208.4;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;13/12/2024 18:30;55;United Kingdom;Glasgow;(55.87, -4.27);1488.8;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+alcest;12;2024;14/12/2024 18:00;56;Ireland;Dublin 1;(53.35, -6.26);1415.6;48;{'emotional', 'shoegaze', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'post-metal', 'french'}
+hiromi;5;2025;19/05/2025 20:15;212;Switzerland;Basel;(47.56, 7.59);258.3;48;{'piano', 'jazz', 'modern', 'fusion', 'japanese'}
+hiromi;5;2025;23/05/2025 20:00;216;Germany;München;(48.7, 13.46);476.6;48;{'piano', 'jazz', 'modern', 'fusion', 'japanese'}
+delta sleep;12;2024;13/12/2024 19:00;55;United Kingdom;Manchester;(53.49, -2.24);1211.1;48;{'indie', 'british', 'brighton', 'pop', 'rock', 'math'}
+delta sleep;12;2024;14/12/2024 19:00;56;United Kingdom;Bristol;(51.45, -2.58);1091.1;48;{'indie', 'british', 'brighton', 'pop', 'rock', 'math'}
+delta sleep;12;2024;15/12/2024 19:00;57;United Kingdom;London;(51.46, -0.12);953.8;48;{'indie', 'british', 'brighton', 'pop', 'rock', 'math'}
+delta sleep;12;2024;16/12/2024 19:00;58;United Kingdom;Birmingham;(52.48, -1.89);1119.9;48;{'indie', 'british', 'brighton', 'pop', 'rock', 'math'}
+delta sleep;12;2024;17/12/2024 19:00;59;United Kingdom;Glasgow;(55.85, -4.23);1485.5;48;{'indie', 'british', 'brighton', 'pop', 'rock', 'math'}
+delta sleep;12;2024;18/12/2024 19:00;60;United Kingdom;Nottingham;(52.96, -1.15);1117.6;48;{'indie', 'british', 'brighton', 'pop', 'rock', 'math'}
+russian circles;10;2024;20/10/2024 19:00;1;Sweden;Göteborg;(57.72, 11.98);1369.3;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;21/10/2024 19:00;2;Norway;Oslo;(59.92, 10.76);1604.5;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;22/10/2024 19:00;3;Sweden;Johanneshov;(59.29, 18.08);1641.9;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;24/10/2024 19:00;5;Denmark;København;(55.67, 12.54);1151.7;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;25/10/2024 19:00;6;Denmark;Aalborg;(57.05, 9.93);1282.5;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;26/10/2024 19:00;7;Germany;Hamburg;(53.56, 9.97);894.7;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;27/10/2024 10:00;8;Netherlands;Maastricht;(50.86, 5.69);648.3;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;29/10/2024 19:00;10;United Kingdom;Birmingham;(52.48, -1.89);1119.9;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;30/10/2024 19:00;11;United Kingdom;Glasgow;(55.86, -4.25);1487.2;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;10;2024;31/10/2024 19:00;12;United Kingdom;Belfast;(54.59, -5.93);1475.4;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;01/11/2024 19:00;13;Ireland;Dublin;(53.34, -6.26);1415.1;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;02/11/2024 19:00;14;United Kingdom;Stretford;(53.47, -2.33);1214.0;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;03/11/2024 19:00;15;United Kingdom;London;(51.55, -0.08);958.2;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;05/11/2024 19:00;17;France;Paris;(48.88, 2.34);640.8;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;06/11/2024 19:00;18;France;Rennes;(48.1, -1.71);881.5;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;07/11/2024 19:00;19;France;Mérignac;(44.82, -0.62);777.8;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;09/11/2024 19:00;21;Portugal;Porto;(41.14, -8.61);1522.9;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;10/11/2024 19:00;22;Spain;Madrid;(40.44, -3.71);1195.3;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+russian circles;11;2024;11/11/2024 19:00;23;Spain;L'hospitalet De Llobregat;(41.36, 2.11);739.0;46;{'sludge', 'metal', 'instrumental', 'rock', 'post-rock', 'post-metal', 'american'}
+gogo penguin;10;2024;19/10/2024 20:00;0;Slovakia;Bratislava;(48.16, 17.14);670.0;46;{'contemporary', 'jazz', 'british', 'indie', 'progressive', 'trio', 'jazztronica', 'modern', 'fusion'}
+gogo penguin;10;2024;24/10/2024 19:00;5;United Kingdom;London;(51.52, -0.13);958.6;46;{'contemporary', 'jazz', 'british', 'indie', 'progressive', 'trio', 'jazztronica', 'modern', 'fusion'}
+gogo penguin;11;2024;14/11/2024 21:00;26;Spain;Barcelona;(41.38, 2.16);734.4;46;{'contemporary', 'jazz', 'british', 'indie', 'progressive', 'trio', 'jazztronica', 'modern', 'fusion'}
+gogo penguin;11;2024;15/11/2024 21:30;27;Spain;Madrid;(40.41, -3.71);1197.1;46;{'contemporary', 'jazz', 'british', 'indie', 'progressive', 'trio', 'jazztronica', 'modern', 'fusion'}
+gogo penguin;11;2024;26/11/2024 21:00;38;Portugal;Lisboa;(38.7, -9.21);1697.8;46;{'contemporary', 'jazz', 'british', 'indie', 'progressive', 'trio', 'jazztronica', 'modern', 'fusion'}
+gogo penguin;11;2024;27/11/2024 21:00;39;Portugal;Porto;(41.16, -8.63);1523.5;46;{'contemporary', 'jazz', 'british', 'indie', 'progressive', 'trio', 'jazztronica', 'modern', 'fusion'}
+shlohmo;12;2024;13/12/2024 23:00;56;Germany;Hamburg;(53.55, 9.96);893.5;46;{'downtempo', 'hip', 'garage', 'wonky', 'instrumental', 'hop', 'glitch', 'electronica', 'future'}
+tigran hamasyan;11;2024;17/11/2024 18:30;29;United Kingdom;London;(51.49, -0.16);958.1;45;{'piano', 'contemporary', 'jazz', 'armenian', 'modern', 'folk'}
+tigran hamasyan;11;2024;20/11/2024 20:00;32;Czechia;Hlavní Město Praha;(50.09, 14.42);638.5;45;{'piano', 'contemporary', 'jazz', 'armenian', 'modern', 'folk'}
+tigran hamasyan;11;2024;25/11/2024 20:00;37;France;Paris;(48.85, 2.34);639.0;45;{'piano', 'contemporary', 'jazz', 'armenian', 'modern', 'folk'}
+tigran hamasyan;11;2024;26/11/2024 20:00;38;France;Cesson-sévigné;(48.12, -1.6);874.2;45;{'piano', 'contemporary', 'jazz', 'armenian', 'modern', 'folk'}
+tigran hamasyan;11;2024;28/11/2024 19:30;40;Poland;Kraków;(50.07, 19.91);944.6;45;{'piano', 'contemporary', 'jazz', 'armenian', 'modern', 'folk'}
+tigran hamasyan;12;2024;13/12/2024 20:00;55;France;Metz;(49.11, 6.17);460.3;45;{'piano', 'contemporary', 'jazz', 'armenian', 'modern', 'folk'}
+tigran hamasyan;4;2025;02/04/2025 20:30;165;Belgium;Berchem;(51.19, 4.43);722.6;45;{'piano', 'contemporary', 'jazz', 'armenian', 'modern', 'folk'}
+sungazer;10;2024;19/10/2024 19:00;0;Latvia;Riga;(56.95, 24.15);1635.8;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;20/10/2024 19:00;1;Lithuania;Vilnius;(54.68, 25.29);1528.4;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;22/10/2024 21:00;3;Spain;Madrid;(40.4, -3.7);1197.0;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;23/10/2024 20:00;4;Spain;Barcelona;(41.39, 2.2);731.1;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;24/10/2024 19:00;5;Czechia;Hlavní Město Praha;(50.09, 14.43);639.0;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;25/10/2024 15:00;6;Czechia;Hlavní Město Praha;(50.09, 14.43);639.0;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;25/10/2024 19:00;6;Czechia;Hlavní Město Praha;(50.09, 14.43);639.0;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;27/10/2024 19:00;8;Denmark;Copenhagen;(55.68, 12.57);1153.2;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;29/10/2024 20:30;10;Germany;Berlin;(52.5, 13.39);832.4;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;10;2024;30/10/2024 19:30;11;France;Paris;(48.87, 2.35);639.6;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;11;2024;01/11/2024 20:00;13;Belgium;Antwerp;(51.21, 4.44);724.1;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;11;2024;03/11/2024 21:30;15;Italy;Pisa;(43.7, 10.41);223.9;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;11;2024;05/11/2024 20:30;17;Italy;Milano;(45.49, 9.19);5.4;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;3;2025;26/03/2025 19:00;158;United Kingdom;London;(51.54, -0.1);958.5;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;3;2025;27/03/2025 19:00;159;United Kingdom;Manchester;(53.48, -2.25);1210.8;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;3;2025;28/03/2025 17:30;160;United Kingdom;Birkenhead;(53.39, -3.02);1242.9;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;3;2025;29/03/2025 19:00;161;United Kingdom;Bristol;(51.45, -2.6);1092.3;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;3;2025;31/03/2025 20:30;163;Luxembourg;Esch-sur-alzette;(49.5, 5.95);505.7;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;4;2025;01/04/2025 20:00;164;Netherlands;Utrecht;(52.09, 5.11);789.5;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;4;2025;02/04/2025 19:30;165;Netherlands;Amsterdam;(52.36, 4.88);823.3;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;4;2025;03/04/2025 20:00;166;Netherlands;Rotterdam;(51.9, 4.49);789.2;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+sungazer;4;2025;05/04/2025 19:00;168;Finland;Helsinki;(60.2, 24.95);1934.7;44;{'fusion', 'livetronica', 'progressive', 'jazz'}
+the ocean;11;2024;01/11/2024 19:00;13;United Kingdom;Manchester;(53.48, -2.24);1210.4;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+the ocean;12;2024;04/12/2024 19:00;46;Finland;Helsinki;(60.17, 24.95);1932.1;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+the ocean;12;2024;06/12/2024 19:00;48;Sweden;Johanneshov;(59.29, 18.08);1641.9;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+the ocean;12;2024;08/12/2024 19:00;50;Norway;Oslo;(59.92, 10.75);1604.5;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+the ocean;12;2024;14/12/2024 19:00;56;Romania;București;(44.44, 26.06);1330.4;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+the ocean;1;2025;11/01/2025 19:00;84;Germany;Berlin;(52.54, 13.41);837.0;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+the ocean;1;2025;16/01/2025 19:00;89;Belgium;Gent;(51.05, 3.73);736.6;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+the ocean;2;2025;02/02/2025 19:00;106;Spain;Madrid;(40.44, -3.72);1196.0;42;{'djent', 'sludge', 'progressive', 'metal', 'atmospheric', 'post-metal'}
+mono;10;2024;22/10/2024 19:00;3;France;Paris;(48.88, 2.34);640.8;39;{'downtempo', 'post-rock', 'instrumental', 'japanese'}
+mono;10;2024;24/10/2024 20:00;5;Germany;Berlin;(52.5, 13.35);831.3;39;{'downtempo', 'post-rock', 'instrumental', 'japanese'}
+mono;10;2024;26/10/2024 19:00;7;United Kingdom;London;(51.55, -0.05);956.6;39;{'downtempo', 'post-rock', 'instrumental', 'japanese'}
+mono;10;2024;27/10/2024 20:00;8;Netherlands;Utrecht;(52.09, 5.11);789.5;39;{'downtempo', 'post-rock', 'instrumental', 'japanese'}
+mono;10;2024;28/10/2024 20:00;9;Denmark;Copenhagen;(55.68, 12.57);1153.2;39;{'downtempo', 'post-rock', 'instrumental', 'japanese'}
+1349;10;2024;19/10/2024 19:00;0;Switzerland;Aarburg;(47.32, 7.91);223.3;38;{'black', 'metal', 'death', 'norwegian', 'technical'}
+1349;10;2024;20/10/2024 19:00;1;France;Oignies;(50.46, 2.99);718.8;38;{'black', 'metal', 'death', 'norwegian', 'technical'}
+1349;10;2024;22/10/2024 19:00;3;Germany;Mörlenbach;(49.59, 8.77);452.7;38;{'black', 'metal', 'death', 'norwegian', 'technical'}
+1349;10;2024;23/10/2024 19:00;4;France;Paris;(48.84, 2.38);636.0;38;{'black', 'metal', 'death', 'norwegian', 'technical'}
+1349;10;2024;24/10/2024 19:00;5;Germany;Essen;(51.51, 7.01);684.8;38;{'black', 'metal', 'death', 'norwegian', 'technical'}
+1349;10;2024;25/10/2024 19:00;6;Netherlands;Amstelveen;(52.3, 4.86);817.8;38;{'black', 'metal', 'death', 'norwegian', 'technical'}
+1349;10;2024;26/10/2024 19:00;7;Netherlands;Maastricht;(50.86, 5.69);648.3;38;{'black', 'metal', 'death', 'norwegian', 'technical'}
+textures;6;2025;07/06/2025 19:00;231;Netherlands;Maastricht;(50.86, 5.68);648.6;38;{'dutch', 'djent', 'metal', 'progressive'}
+mononeon;11;2024;11/11/2024 21:00;23;Spain;Madrid;(40.42, -3.7);1195.8;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;12/11/2024 20:00;24;Spain;Barcelona;(41.38, 2.16);734.4;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;14/11/2024 21:00;26;Italy;Roma;(41.9, 12.47);480.4;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;15/11/2024 20:30;27;Italy;Milano;(45.49, 9.19);5.4;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;15/11/2024 23:00;28;Italy;Milano;(45.49, 9.19);5.4;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;16/11/2024 20:30;28;Italy;Bologna;(44.51, 11.35);201.9;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;18/11/2024 19:30;30;Switzerland;Zurich;(47.37, 8.52);211.7;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;19/11/2024 20:00;31;Belgium;Antwerp;(51.21, 4.44);724.1;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;21/11/2024 19:30;33;Netherlands;Amsterdam;(52.36, 4.88);823.3;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;22/11/2024 22:00;34;Netherlands;Utrecht;(52.09, 5.11);789.5;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;24/11/2024 20:00;36;United Kingdom;London;(51.55, -0.08);958.2;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;25/11/2024 20:00;37;France;Paris;(48.87, 2.36);639.0;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;27/11/2024 20:00;39;Germany;Cologne;(50.95, 6.92);626.5;38;{'funktronica', 'microtonal'}
+mononeon;11;2024;29/11/2024 20:00;41;Norway;Oslo;(59.92, 10.76);1604.5;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;01/12/2024 19:00;43;Finland;Helsinki;(60.18, 24.92);1931.9;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;03/12/2024 18:30;45;Sweden;Stockholm;(59.31, 18.03);1642.8;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;04/12/2024 20:00;46;Denmark;København K;(55.68, 12.58);1153.4;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;05/12/2024 21:00;47;Germany;Hamburg;(53.56, 9.97);894.7;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;06/12/2024 19:30;48;Germany;Berlin;(52.5, 13.39);832.4;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;07/12/2024 20:00;49;Czechia;Brno-město;(49.19, 16.61);689.7;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;08/12/2024 20:00;50;Poland;Katowice;(50.25, 19.02);899.6;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;10/12/2024 20:00;52;Poland;Warsaw;(52.23, 21.01);1138.4;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;12/12/2024 20:30;54;Austria;Vienna;(48.21, 16.38);620.9;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;13/12/2024 20:00;55;Hungary;Budapest;(47.48, 19.06);784.4;38;{'funktronica', 'microtonal'}
+mononeon;12;2024;15/12/2024 20:00;57;Georgia;თბილისი;(41.7, 44.79);2877.8;38;{'funktronica', 'microtonal'}
+oranssi pazuzu;11;2024;13/11/2024 20:00;25;Netherlands;Groningen;(53.21, 6.58);875.4;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;11;2024;15/11/2024 20:00;27;Netherlands;Maastricht;(50.86, 5.69);648.3;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;11;2024;16/11/2024 19:30;28;Belgium;Bruxelles;(50.85, 4.37);692.8;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;11;2024;19/11/2024 19:00;31;France;Lille;(50.62, 3.07);728.2;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;11;2024;24/11/2024 19:00;36;United Kingdom;London;(51.53, -0.11);958.3;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;11;2024;26/11/2024 18:30;38;France;Paris;(48.88, 2.33);641.5;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;11;2024;27/11/2024 20:00;39;France;Rennes;(48.11, -1.67);878.9;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;12;2024;03/12/2024 19:00;45;Italy;Milan;(45.49, 9.18);5.9;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+oranssi pazuzu;12;2024;04/12/2024 19:00;46;Switzerland;Pratteln;(47.53, 7.69);251.8;39;{'avant-garde', 'cosmic', 'drone', 'post-black', 'black', 'metal', 'atmospheric', 'blackgaze', 'rock', 'post-metal', 'psychedelic', 'finnish', 'sci-fi', 'voidgaze'}
+rolo tomassi;8;2025;14/08/2025 11:00;299;United Kingdom;Bristol;(51.46, -2.6);1092.9;37;{'nintendocore', 'uk', 'post-hardcore', 'hardcore', 'cybergrind', 'chaotic', 'metalcore', 'mathcore'}
+chassol;10;2024;25/10/2024 20:00;6;France;La Rochelle;(46.16, -1.21);813.4;36;set()
+chassol;11;2024;15/11/2024 22:00;27;Turkey;İstanbul;(41.04, 28.98);1673.8;36;set()
+chassol;3;2025;28/03/2025 20:00;160;France;Quetigny;(47.31, 5.09);374.7;36;set()
+chassol;5;2025;07/05/2025 20:00;200;France;Cenon;(44.86, -0.52);769.3;36;set()
+chassol;5;2025;17/05/2025 20:30;210;France;Sartrouville;(48.94, 2.19);653.7;36;set()
+maybeshewill;10;2024;23/10/2024 19:00;4;Hungary;Budapest;(47.46, 19.06);783.9;35;{'british', 'post-rock', 'instrumental'}
+maybeshewill;10;2024;24/10/2024 19:00;5;Croatia;Zagreb;(45.79, 15.96);525.2;35;{'british', 'post-rock', 'instrumental'}
+maybeshewill;10;2024;25/10/2024 19:00;6;Greece;Tavros;(37.97, 23.7);1463.9;35;{'british', 'post-rock', 'instrumental'}
+maybeshewill;10;2024;26/10/2024 19:00;7;Bulgaria;София;(42.68, 23.32);1170.0;35;{'british', 'post-rock', 'instrumental'}
+maybeshewill;10;2024;27/10/2024 19:00;8;Romania;București;(44.44, 26.06);1330.4;35;{'british', 'post-rock', 'instrumental'}
+metz;11;2024;02/11/2024 19:00;14;France;Rennes;(48.1, -1.71);881.5;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;03/11/2024 19:00;15;France;La Rochelle;(46.16, -1.21);813.4;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;04/11/2024 19:00;16;France;Paris;(48.87, 2.39);637.2;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;05/11/2024 19:00;17;France;Clermont-ferrand;(45.79, 3.1);478.5;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;06/11/2024 19:00;18;France;Lyon;(45.75, 4.85);342.3;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;07/11/2024 19:00;19;Switzerland;Zurich;(47.38, 8.52);212.8;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;09/11/2024 19:00;21;Czech Republic;Praha;(50.07, 14.41);636.4;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;10/11/2024 19:00;22;Hungary;Budapest;(47.49, 19.07);785.4;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;12/11/2024 19:00;24;Poland;Kraków;(50.07, 19.91);944.6;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;13/11/2024 19:00;25;Poland;Warszawa;(52.26, 21.04);1142.0;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;16/11/2024 19:00;28;Germany;Berlin;(52.46, 13.43);829.3;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;18/11/2024 19:00;30;Denmark;Copenhagen;(55.67, 12.6);1152.6;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;19/11/2024 19:00;31;Germany;Hamburg;(53.54, 9.95);892.4;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;20/11/2024 19:00;32;Netherlands;Amsterdam;(52.4, 4.88);827.4;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;21/11/2024 19:00;33;Netherlands;Groningen;(53.22, 6.57);876.6;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;22/11/2024 19:00;34;Belgium;Antwerpen;(51.22, 4.4);726.5;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;23/11/2024 19:00;35;France;Lille;(50.64, 3.07);729.9;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;25/11/2024 19:00;37;United Kingdom;Birmingham;(52.44, -1.89);1117.1;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;26/11/2024 19:00;38;United Kingdom;Leeds;(53.81, -1.57);1203.9;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;27/11/2024 19:00;39;United Kingdom;Birkenhead;(53.39, -3.02);1242.9;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;28/11/2024 19:00;40;United Kingdom;Bristol;(51.46, -2.59);1092.3;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+metz;11;2024;29/11/2024 19:00;41;United Kingdom;London;(51.52, -0.08);956.0;35;{'wave', 'indie', 'noise', 'punk', 'crank', 'pop', 'canadian', 'rock', 'post-hardcore'}
+thy catafalque;10;2024;29/10/2024 19:00;10;Spain;Bilbao;(43.26, -2.94);1000.8;34;{'avant-garde', 'slavic', 'symphonic', 'cosmic', 'black', 'metal', 'death', 'hungarian', 'sci-fi'}
+thy catafalque;11;2024;22/11/2024 21:00;34;Hungary;Budapest;(47.46, 19.06);783.9;34;{'avant-garde', 'slavic', 'symphonic', 'cosmic', 'black', 'metal', 'death', 'hungarian', 'sci-fi'}
+thy catafalque;11;2024;23/11/2024 19:00;35;Hungary;Budapest;(47.46, 19.06);783.9;34;{'avant-garde', 'slavic', 'symphonic', 'cosmic', 'black', 'metal', 'death', 'hungarian', 'sci-fi'}
+long distance calling;11;2024;29/11/2024 20:00;41;Germany;Ludwigshafen Am Rhein;(49.48, 8.44);443.2;33;{'instrumental', 'atmospheric', 'post-rock', 'post-metal', 'german'}
+long distance calling;11;2024;30/11/2024 20:45;42;Switzerland;Oberentfelden;(47.35, 8.04);222.0;33;{'instrumental', 'atmospheric', 'post-rock', 'post-metal', 'german'}
+ghost bath;10;2024;21/10/2024 18:30;2;Sweden;Stockholm;(59.32, 18.08);1645.0;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;22/10/2024 19:00;3;Sweden;Göteborg;(57.7, 11.93);1366.6;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;23/10/2024 18:30;4;Sweden;Malmö;(55.58, 13.03);1149.5;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;24/10/2024 18:30;5;Denmark;Albertslund;(55.66, 12.35);1148.0;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;25/10/2024 18:30;6;Germany;Hamburg;(53.46, 9.99);883.7;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;26/10/2024 18:30;7;Germany;Schiffdorf;(53.58, 8.63);896.4;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;27/10/2024 12:00;8;Netherlands;Maastricht;(50.86, 5.69);648.3;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;28/10/2024 19:00;9;France;Paris;(48.84, 2.38);636.0;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;29/10/2024 19:00;10;United Kingdom;London;(51.54, -0.14);960.6;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;30/10/2024 19:00;11;United Kingdom;Bristol;(51.45, -2.59);1091.7;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;10;2024;31/10/2024 19:00;12;United Kingdom;Brighton And Hove;(50.83, -0.14);911.4;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;01/11/2024 18:30;13;Belgium;Beauraing;(50.11, 4.96);601.1;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;02/11/2024 15:00;14;Switzerland;Zürich;(47.38, 8.54);212.4;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;03/11/2024 18:30;15;Italy;Milano;(45.52, 9.18);4.1;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;04/11/2024 18:30;16;Germany;Mannheim;(49.45, 8.5);439.3;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;05/11/2024 18:30;17;Austria;Salzburg;(47.8, 13.03);384.9;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;06/11/2024 20:00;18;Poland;Kraków;(50.08, 20.0);950.8;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;07/11/2024 20:00;19;Poland;Warsaw;(52.21, 20.99);1136.0;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;08/11/2024 20:00;20;Poland;Poznań;(52.41, 16.93);949.2;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;11;2024;09/11/2024 14:00;21;Germany;Berlin;(52.54, 13.53);840.2;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ghost bath;7;2025;23/07/2025 12:00;277;Slovenia;Tolmin;(46.17, 13.74);357.4;33;{'cosmic', 'black', 'metal', 'atmospheric', 'voidgaze'}
+ben frost;11;2024;21/11/2024 19:30;33;United Kingdom;London;(51.52, -0.1);957.0;32;{'soundtrack', 'drone', 'experimental', 'classical', 'icelandic', 'mandible', 'ambient', 'compositional', 'australian'}
+il teatro degli orrori;2;2025;20/02/2025 21:00;124;Italy;Nonantola;(44.68, 11.04);170.9;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;2;2025;25/02/2025 21:00;129;Italy;Firenze;(43.77, 11.3);255.4;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;2;2025;26/02/2025 21:00;130;Italy;Bologna;(44.52, 11.37);202.6;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;3;2025;01/03/2025 21:00;133;Italy;Venaria Reale;(45.12, 7.62);134.2;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;3;2025;05/03/2025 21:00;137;Italy;Padova;(45.41, 11.89);208.4;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;3;2025;12/03/2025 21:00;144;Italy;Roma;(41.82, 12.47);487.9;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;3;2025;13/03/2025 21:00;145;Italy;Napoli;(40.82, 14.18);659.9;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;3;2025;14/03/2025 21:00;146;Italy;Molfetta;(41.19, 16.63);769.1;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+il teatro degli orrori;3;2025;18/03/2025 21:00;150;Italy;Milan;(45.49, 9.18);5.9;33;{'jazzcore', 'indie', 'italian', 'alternative', 'veneto'}
+totorro;11;2024;23/11/2024 20:30;35;France;Nantes;(47.2, -1.57);850.8;32;{'instrumental', 'rock', 'post-rock', 'french', 'math'}
+monika roscher bigband;11;2024;30/11/2024 20:00;42;Germany;Nürnberg;(49.43, 11.09);455.7;27;{'indie', 'munich'}
+monika roscher bigband;12;2024;26/12/2024 20:00;68;Germany;Regensburg;(49.02, 12.1);444.6;27;{'indie', 'munich'}
+monika roscher bigband;12;2024;27/12/2024 20:00;69;Germany;Hannover;(52.37, 9.73);761.5;27;{'indie', 'munich'}
+sleepytime gorilla museum;8;2025;14/08/2025 11:00;299;United Kingdom;Bristol;(51.46, -2.6);1092.9;24;{'avant-garde', 'in', 'avant-prog', 'opposition', 'metal', 'avant-rock', 'rock', 'funk'}
+lorenzo senni;11;2024;08/11/2024 17:30;20;Spain;Barcelona;(41.39, 2.16);733.6;21;{'club', 'experimental', 'italian', 'deconstructed'}
+zu;10;2024;26/10/2024 16:00;7;Italy;Bologna;(44.5, 11.33);201.2;19;{'contemporary', 'jazz', 'progressive', 'prog', 'brutal', 'fusion', 'jazzcore'}
+zu;10;2024;27/10/2024 16:00;8;Italy;Bologna;(44.5, 11.33);201.2;19;{'contemporary', 'jazz', 'progressive', 'prog', 'brutal', 'fusion', 'jazzcore'}
+zu;1;2025;18/01/2025 21:00;91;Italy;San Martino Buon Albergo;(45.42, 11.1);146.7;19;{'contemporary', 'jazz', 'progressive', 'prog', 'brutal', 'fusion', 'jazzcore'}
+valerian swing;10;2024;19/10/2024 21:30;0;Italy;Siena;(43.31, 11.34);298.5;14;{'post-rock', 'italian'}
+valerian swing;11;2024;22/11/2024 21:30;34;Italy;Carpi;(44.78, 10.89);154.9;14;{'post-rock', 'italian'}
+valerian swing;11;2024;23/11/2024 21:30;35;Italy;Cancello;(44.45, 8.89);123.0;14;{'post-rock', 'italian'}
+nina;4;2025;23/04/2025 20:30;186;France;Pontchâteau;(47.44, -2.09);893.9;0;set()

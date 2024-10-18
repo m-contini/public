@@ -1,73 +1,12 @@
 # %% MODULES
-from pandas import read_csv
-from os import path, listdir, getcwd
-from ast import literal_eval
+from os import path, getcwd
+
+from exe.modules import load_short_df, show_all_genres, query_game
 
 # %% VARIABLES
 working_directory = getcwd()
 data_dir = path.join(working_directory, 'data')
 short_dir = path.join(data_dir, 'short')
-
-# %% FUNCTIONS
-def load_short_df(directory):
-    try:
-        directory_sorted = sorted(listdir(directory))
-        if not directory_sorted:
-            raise FileNotFoundError(f'No short dataframes found in {path.relpath(working_directory, short_df)}')
-        print('Available short dataframes:', *directory_sorted, sep='\n')
-        short_df = path.join(directory, directory_sorted[0])
-        df_spotify = read_csv(short_df, sep=';')
-    except Exception as e:
-        print(f'Error loading short dataframe: {e}')
-        return None
-    
-    df_spotify['specific_genre'] = df_spotify['specific_genre'].apply(lambda x: x.replace('set()', ''))
-    df_spotify['genres'] = df_spotify['genres'].apply(lambda x: x.replace('[]', ''))
-    print(f'\nLoaded {path.relpath(short_df, working_directory)}:')
-    #print(df_spotify.head())
-
-    return df_spotify
-
-def query_game(df, field_name, input_value):
-    Y = df.copy()
-
-    for value in input_value.split():
-        Y = Y[Y[field_name].str.contains(value, case=False, na=False)]
-
-    Y = Y.reset_index(drop=True)
-    Y.index = Y.index + 1
-
-    return Y
-
-def show_all_genres(df):
-    x = df.copy()
-    if 'specific_genre' not in x.columns:
-        print('No specific_genre column found in dataframe\n')
-        return
-
-    col = x['specific_genre']
-
-    if not isinstance(col.iloc[0], (set, list)):
-        def safe_literal_eval(val):
-            try:
-                return literal_eval(val)
-            except (ValueError, SyntaxError):
-                print(f'Error evaluating the porcodio: {'empty specific_genre' if not val else val}')
-                return None
-
-        col = col.apply(safe_literal_eval)
-        col = col.dropna()
-
-    cumulative = []
-    for genreset in col:
-        genrelist = list(genreset)
-        if genrelist not in cumulative:
-            cumulative.extend(genrelist)
-
-    uniques = set(cumulative)
-    uniqueslist = list(sorted(uniques))
-
-    return uniqueslist
 
 # %% MAIN
 def main():

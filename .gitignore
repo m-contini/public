@@ -1,5 +1,5 @@
 .github/
 toignore/
 .env
-Season/.env
+Season/Bandsintown/.env
 Season/Bandsintown/data/tokens.json
