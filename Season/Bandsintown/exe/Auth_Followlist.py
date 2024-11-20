@@ -10,7 +10,7 @@ from pandas import DataFrame
 from logging import error
 
 # %% VARIABLES
-working_directory = path.dirname(current_directory := getcwd())
+working_directory = getcwd()
 parent_dir = path.dirname(working_directory)
 data_dir = path.join(working_directory, 'data')
 data_long = path.join(data_dir, 'long')
@@ -38,7 +38,8 @@ limit = 50
 
 tokens_dict = {}
 
-load_dotenv()
+env_path = path.join(paths['parent'], '.env')
+load_dotenv(env_path)
 spotify_client_id = getenv('SPOTIFY_CLIENT_ID')
 spotify_client_secret = getenv('SPOTIFY_CLIENT_SECRET')
 

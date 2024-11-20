@@ -1,5 +1,7 @@
 .github/
-toignore/
-.env
+*.env
 Season/.env
+Bandsintown/.env
 Season/Bandsintown/data/tokens.json
+*.vscode
+*.code-workspace

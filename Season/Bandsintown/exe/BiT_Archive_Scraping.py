@@ -282,7 +282,7 @@ def main():
     inner_bit_vs_spot = read_csv(csv_files['BiT_Spotify_innerjoin'], sep=';')
 
     artists_set = set(inner_bit_vs_spot['name'])
-    print(f'\nThese {len(artists_set)} artists are in BiT and have upcoming events:')
+    print(f'\nThese {len(artists_set)} artists are in BiT and might have upcoming events:')
     sleep(2)
     print(', '.join(artists_set), '\n')
     
@@ -292,6 +292,14 @@ def main():
 
     print(f'Number of URLs to scrape: {len(url_series)}')
 
+    def do_that():
+        datalist = fetch_all_urls(url_series)
+        save_dfs(datalist)
+        for file in [csv_files['all_events_dicts'], csv_files['all_events_short']]:
+            print(f'\n\t\'{path.basename(file)}\' created in {path.relpath(working_directory, data_dir)}\n')
+            print(f'\tSize: {human_readable_size(file)}')
+            print(f'\tPath: {path.relpath(file, working_directory)}\n')
+
     existence = path.exists(csv_files['all_events_dicts']) and path.exists(csv_files['all_events_short'])
     if existence:
         print(f'\n\'{path.relpath(csv_files['all_events_dicts'], data_dir)}\' and \'{path.relpath(csv_files['all_events_short'], data_dir)}\' already exist\n')
@@ -299,14 +307,11 @@ def main():
         if again.lower() == 'n':
             print(f'\n------------------------------------------------------ !END! ------------------------------------------------------\n')
             return
+        else:
+            do_that()
 
     else:
-        datalist = fetch_all_urls(url_series)
-        save_dfs(datalist)
-        for file in [csv_files['all_events_dicts'], csv_files['all_events_short']]:
-            print(f'\n\t\'{path.basename(file)}\' created in {path.relpath(working_directory, data_dir)}\n')
-            print(f'\tSize: {human_readable_size(file)}')
-            print(f'\tPath: {path.relpath(file, working_directory)}\n')
+        do_that()
             
 
     print(f'\n------------------------------------------------------ !END! ------------------------------------------------------\n')
