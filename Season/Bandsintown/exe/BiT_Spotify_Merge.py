@@ -262,11 +262,6 @@ def main():
     inner_bit_vs_spot = merged_bit_vs_spot[merged_bit_vs_spot['_merge'] == 'both'].reset_index(drop=True)
     inner_bit_vs_spot = inner_bit_vs_spot.drop(columns=['_merge', 'BiT_name_check', 'BiT_name', 'specific_genre'])
 
-    print(f'\nThese artists are in BiT and have upcoming events:')
-    print('\n'.join(inner_bit_vs_spot['name'].tolist()))
-    print(f'\nThese artists are not in BiT because they have no events:')
-    print('\n'.join(no_events['name'].tolist()))
-
     inner_bit_vs_spot.to_csv(BiT_data['BiT_Spotify_innerjoin'], sep=';', index=False)
 
     i = 0
@@ -278,9 +273,12 @@ def main():
             duplicates_name.append(name)
         i+=1
 
+    print(f'\nThese artists are not in BiT because they have no events:')
+    print('\n'.join(sorted(no_events['name'].tolist())))
     print(f'\nThe following {len(set(duplicates_name))} artists appear twice in \'name\' column: that\'s beacause the \'BiT_url\' in BiT leads to the same band name:')
     print(merged_bit_vs_spot[merged_bit_vs_spot['name'].isin(duplicates_name)][['name', 'BiT_url']])
-
+    print(f'\nThese artists are in BiT and have upcoming events:')
+    print('\n'.join(inner_bit_vs_spot['name'].tolist()))
     print(f'\n------------------------------------------------------ !END! ------------------------------------------------------\n')
 
     return

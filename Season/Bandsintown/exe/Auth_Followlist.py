@@ -54,6 +54,23 @@ def get_values(nested_dict):
     return folders
 
 def file_existence() -> None:
+    """
+    Checks the existence of necessary files and directories, and validates Spotify credentials.
+    This function performs the following tasks:
+    1. Checks if `spotify_client_id` and `spotify_client_secret` are set.
+       Raises a `ValueError` if either is missing.
+    2. Prints the acquired Spotify credentials (partially masked).
+    3. Checks the existence of paths specified in the `paths` dictionary.
+       Prints the status of each path (exists or created).
+       Creates directories if they do not exist.
+    4. Loads environment variables from a `.env` file located in the parent directory of `paths`.
+       Raises a `FileNotFoundError` if the `.env` file is not found.
+    5. Validates again if `spotify_client_id` and `spotify_client_secret` are set.
+       Raises a `ValueError` if either is missing.
+    Raises:
+        ValueError: If `spotify_client_id` or `spotify_client_secret` is not set.
+        FileNotFoundError: If the `.env` file is not found.
+    """
 
     if spotify_client_id is None or spotify_client_secret is None:
         raise ValueError('Both SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET must be set in .env file!\n')
@@ -76,16 +93,26 @@ def file_existence() -> None:
     if not spotify_client_id or not spotify_client_secret:
         raise ValueError('Both SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET must be set in .env file!\n')
 
-def get_auth_url() -> None:
+def get_auth_url(scopes: str) -> dict:
+    """
+    Generates an authorization URL for Spotify's user-follow-read scope and prints it.
+    This function creates a state token and constructs the authorization URL with the necessary
+    parameters including client ID, response type, redirect URI, state, and scope. It then makes
+    a GET request to Spotify's authorization endpoint to retrieve the full authorization URL.
+    The URL is printed to the console for the user to open in their browser.
+    Returns:
+        dict: A dictionary containing the state token and the authorization URL.
+    """
 
     state = token_hex(8)
 
+    scopes = ' '.join(scopes) if isinstance(scopes, list) else scopes
     params = {
         'client_id': spotify_client_id,
         'response_type': 'code',
         'redirect_uri': spotify_redirect_uri,
         'state': state,
-        'scope': 'user-follow-read',
+        'scope': scopes,
     }
 
     r = get(SPOTIFY_API_ENDPOINTS['authorize'], params=urlencode(params))
@@ -102,6 +129,15 @@ def get_auth_url() -> None:
     return data
 
 def get_code(data: dict) -> str:
+    """
+    Extracts the authorization code from a given fallback URL.
+    Args:
+        data (dict): A dictionary containing 'state' and 'auth_code_url' keys.
+    Returns:
+        str: The extracted authorization code.
+    Raises:
+        Exception: If the fallback URL is None or does not contain the expected state.
+    """
 
     state = data['state']
     auth_code_url = data['auth_code_url']
@@ -119,6 +155,17 @@ def get_code(data: dict) -> str:
     return code
 
 def get_tokens(auth_code: str | None, refresh_t: str = None) -> tuple:
+    """
+    Retrieves access and refresh tokens from the Spotify API using either an authorization code or a refresh token.
+    Args:
+        auth_code (str | None): The authorization code obtained from the Spotify authorization process. 
+                                This is required if `refresh_t` is not provided.
+        refresh_t (str, optional): The refresh token obtained from a previous token request. 
+                                   This is required if `auth_code` is not provided.
+    Returns:
+        tuple: A tuple containing the access token and refresh token if the request is successful, 
+               or None if the request fails.
+    """
 
     auth_code_to_print = auth_code[6:16] if auth_code is not None else auth_code
     refresh_t_to_print = refresh_t[6:16] if refresh_t is not None else refresh_t
@@ -151,13 +198,23 @@ def get_tokens(auth_code: str | None, refresh_t: str = None) -> tuple:
         print(f'HTTP Error{response.status_code}\n{dumps(response.json(), indent=4)}')
         return None
 
-def rw_tokens(filepath):
+def rw_tokens(filepath: str, scopes: str) -> dict:
+    """
+    Reads, validates, and refreshes authentication tokens from a JSON file.
+    If the tokens file exists and the access token is still valid, it reads and returns the tokens.
+    If the access token is expired or the file does not exist, it requests new tokens using the refresh token
+    or authorization code, updates the expiration time, and writes the new tokens to the file.
+    Args:
+        filepath (str): The path to the JSON file containing the tokens.
+    Returns:
+        dict: A dictionary containing the authentication tokens.
+    """
 
     is_file = path.isfile(filepath)
     if is_file:
 
         with open(filepath, 'r') as f:
-            print('Reading \'tokens.json\'...\n')
+            print(f'Reading \'{filepath}\'...\n')
             tokens = load(f)
         
         old_expiration_time = datetime.fromisoformat(tokens['expiration'])
@@ -175,10 +232,10 @@ def rw_tokens(filepath):
         print(f'Access token expired! New request with refresh token: {tokens["refresh_token"][6:16]}...')
     
     else:
-        data = get_auth_url()
+        data = get_auth_url(scopes)
         code = get_code(data)
         tokens = {}
-        
+
     expiration_time = datetime.now() + timedelta(hours=1) if not is_file or expired else old_expiration_time
     authorization_code = code if not is_file else None
     refresh_token = None if not is_file else tokens['refresh_token']
@@ -358,7 +415,7 @@ def main():
     
     file_existence()
 
-    tokens_dict = rw_tokens(tokens_json)
+    tokens_dict = rw_tokens(tokens_json, 'user-follow-read')
 
     total = 0
     after_value = ''
