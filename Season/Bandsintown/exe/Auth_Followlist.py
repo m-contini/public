@@ -214,7 +214,7 @@ def rw_tokens(filepath: str, scopes: str) -> dict:
     if is_file:
 
         with open(filepath, 'r') as f:
-            print(f'Reading \'{filepath}\'...\n')
+            print(f'\nReading \'{path.basename(filepath)}\'...\n')
             tokens = load(f)
         
         old_expiration_time = datetime.fromisoformat(tokens['expiration'])
@@ -246,7 +246,7 @@ def rw_tokens(filepath: str, scopes: str) -> dict:
     with open(filepath, 'w') as f:
         dump(tokens, f, indent=4)
     
-    print('\nNew tokens written to \'tokens.json\':\n')
+    print(f'\nNew tokens written to \'{path.basename(filepath)}\':\n')
 
     tokens_to_safely_print = {
         'access_token': '...' + tokens['access_token'][8:14] + '...',
@@ -341,6 +341,17 @@ def df_writer(dicty: dict, long: bool) -> DataFrame:
     return df
 
 def get_follow_dict(init_dict: dict | None = None, after_value: str | None = None, access_token: str | None = None) -> dict:
+    """
+    Retrieves a dictionary of followed artists from the Spotify API.
+    Args:
+        init_dict (dict | None): Initial dictionary of followed artists. If None, a new dictionary will be created.
+        after_value (str | None): Cursor value for pagination. If None, it will be set to the 'after' value from the initial dictionary.
+        access_token (str | None): Spotify API access token. Must be provided.
+    Returns:
+        dict: A dictionary containing followed artists data.
+    Raises:
+        Exception: If 'access_token' is None.
+    """
 
     if not access_token:
         raise Exception('Error: \'access_token\' is None!\n')
@@ -415,7 +426,8 @@ def main():
     
     file_existence()
 
-    tokens_dict = rw_tokens(tokens_json, 'user-follow-read')
+    scopes_followlist = ['user-follow-read']
+    tokens_dict = rw_tokens(tokens_json, scopes_followlist)
 
     total = 0
     after_value = ''

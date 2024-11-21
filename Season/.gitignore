@@ -7,3 +7,5 @@
 .zip
 #./Bandsintown/exe/data/tokens.json
 *.csv
+__pycache__
+.log

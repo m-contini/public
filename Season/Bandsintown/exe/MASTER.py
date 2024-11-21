@@ -4,7 +4,7 @@ from subprocess import run, CalledProcessError
 from os import getcwd, path, chdir
 
 # %% VARIABLES
-basicConfig(filename='master.log', level=INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+basicConfig(filename='log_master.log', level=INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 scripts = ['Auth_Followlist.py', 'BiT_Spotify_Merge.py', 'BiT_Archive_Scraping.py', 'Europe_Events.py']
 
