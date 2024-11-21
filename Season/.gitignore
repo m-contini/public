@@ -1,7 +1,0 @@
-*.json
-.xml
-*.code-workspace
-*.vscode
-*.env
-.github
-.zip
