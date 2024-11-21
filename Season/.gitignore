@@ -1,0 +1,9 @@
+*.json
+.xml
+*.code-workspace
+*.vscode
+*.env
+.github
+.zip
+#./Bandsintown/exe/data/tokens.json
+*.csv
